@@ -111,11 +111,19 @@ footer {
 }
 
 /*** media queries ***/
+
+@media (min-width: 100px) {
+  /* wrapper stays 480px wide past 480px wide and is kept centered */
+  .wrapper {
+    width: 95%;
+    margin: 10% auto 0 auto; } }
+
+
 /* X-Small devices (phones, 480px and up) */
 @media (min-width: 480px) {
 	/* wrapper stays 480px wide past 480px wide and is kept centered */
 	.wrapper {
-		width: 470px;
+		width: 95%;
 		margin: 10% auto 0 auto;
 	}
 }
