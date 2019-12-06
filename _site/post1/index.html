@@ -67,29 +67,26 @@
 
 <p> I got even more excited about it what with the current New York Times crossword stats visualizations. As it stands, they offer graphs that summarize best, worst and average times for each day. What I'd really like to know is how much time I've spent staring at a crossword cumulatively, whether or not my scores are improving, and (perhaps most importantly) how I compare to my friends. Evidently the New York Times also noticed that friendly competition brings people to their platform and they released a leaderboard for the crossword minis a week before us (sad but oh well). </p>
 
-<p> You can find the code here: https://github.com/advaith/nyTimed </p>
-
-<p> And the extension here: https://chrome.google.com/webstore/detail/nytimed/hloelniielchalacnlmgdkjfkjfnccjg </p>
-
-Been working on this for a while but there were a couple resources we found helpful in creating the sign-in, structuring the database, and performing all the handshakes between the back and front end. The roughest portion is the lack of mobile integration - a lot of people do the crossword on their phones.
-
-1.  get starter code working : https://developer.chrome.com/extensions/getstarted
-2. 	make chrome ext conditional on website: https://developer.chrome.com/extensions/declarativeContent
-3.  chrome firebase sign-in: https://nypost.com/2019/04/24/princeton-valedictorian-gets-engaged-to-her-71-year-old-former-professor/	
-4. 	learn how to structure a firebase database effectively: https://pamartinezandres.com/lessons-learnt-the-hard-way-using-firebase-realtime-database-c609b52b9afb
-	* tldr; it's easy to create a nesty-heavy architecture for your database. stay flat. in this case, that means making a choice of the lowest level node mapping date --> time. Those dates are organized by day, but that's it.
-	* of note: you can't have node names with any special characters. that's why it's best to stay away from having any user-defined nodes, because unless you police every user to avoid unsafe characters, it's an easy point of failure.
-
-5.  learn how to inject code from the extension into the current page: https://gist.github.com/danharper/8364399
-6. 	munge around with the page to get the data you want (aka times, whether or not a check was used)
-7. 	read from the firebase database asynchronously: https://firebase.googleblog.com/2016/01/keeping-our-promises-and-callbacks_76.html
-	* this was also new to me - 
-8. 	taking that data and rendering it in a visual: https://github.com/d3/d3/wiki/Gallery
-9. 	
+<p> You can find the code <a href="https://github.com/advaith/nyTimed"> here </a> and the extension <a href="https://chrome.google.com/webstore/detail/nytimed/hloelniielchalacnlmgdkjfkjfnccjg"> here </a>.  </p>
 
 
+Been working on this for a while but there were a couple resources we found helpful in creating the sign-in, structuring the database, and performing all the handshakes between the back and front end. The roughest part (right now) is the lack of mobile integration - a lot of people do the crossword on their phones and it's clunky to require people to sign in on their laptops.
 
-In case you're interested in generating a crossword mini for a friend based on a basic wordlist, you can find code for that here:  . It's slow and you might be better off just paying for a subscription to autofill a grid for you, but it was fun to write!
+<ol>
+<li> Starter code: <a href="https://developer.chrome.com/extensions/getstarted">link</a>
+<li> Enabling an extension based on the current website you're browsing: <a href="https://developer.chrome.com/extensions/declarativeContent">link</a>
+<li> Authenticating users through gmail accounts using Firebase: <a href="https://firebase.google.com/docs/auth/web/google-signin">link</a>
+<li> Structuring your database effectively: <a href="https://pamartinezandres.com/lessons-learnt-the-hard-way-using-firebase-realtime-database-c609b52b9afb">link</a>
+	<ul>
+	 <li> tldr; it's easy to create a nesty-heavy architecture for your database. stay flat. In this case, that means making a choice of the lowest level node mapping date --> time. Those dates are organized by day, but that's it.
+	 <li> of note: you can't have node names with any special characters. that's why it's best to stay away from having any user-defined nodes, because unless you police every user to avoid unsafe characters, it's an easy point of failure.
+	</ul>
+<li> Running code from your extension on the webpage the user is browsing: <a href="https://gist.github.com/danharper/8364399">link</a>
+<li> munge around with the page to get the data you want (aka times, whether or not a check was used)
+<li> Asynchronous reads from a Firebase database: <a href="https://firebase.googleblog.com/2016/01/keeping-our-promises-and-callbacks_76.html">link</a>
+<li> Rendering the data you've collected: <a href="https://github.com/d3/d3/wiki/Gallery">link</a>
+</ol>
+
 
 </div>
       </div>
