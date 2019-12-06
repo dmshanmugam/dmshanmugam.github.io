@@ -22,6 +22,12 @@ a:active {
 a:hover {
   text-decoration: underline; }
 
+.post_content {
+  overflow-y: auto;
+  height: 70vh;
+  width: 30vw;
+  overflow-x: hidden; }
+
 /*** main content list ***/
 .main-list-item {
   font-weight: bold;
@@ -88,12 +94,23 @@ footer {
   padding: 0 5px; }
 
 /*** media queries ***/
+@media (min-width: 100px) {
+  /* wrapper stays 480px wide past 480px wide and is kept centered */
+  .wrapper {
+    width: 95%;
+    margin: 10% auto 0 auto; }
+
+  .post_content {
+    width: 90vw; } }
 /* X-Small devices (phones, 480px and up) */
 @media (min-width: 480px) {
   /* wrapper stays 480px wide past 480px wide and is kept centered */
   .wrapper {
-    width: 480px;
-    margin: 10% auto 0 auto; } }
+    width: 95%;
+    margin: 10% auto 0 auto; }
+
+  .post_content {
+    width: 90vw; } }
 /* All other devices (768px and up) */
 @media (min-width: 768px) {
   /* past 768px the layout is changed and the wrapper has a fixed width of 680px
@@ -116,4 +133,7 @@ footer {
   main {
     width: 80%;
     margin-left: 54%;
-    padding: 0; } }
+    padding: .1em; }
+
+  .post_content {
+    width: 30vw; } }
