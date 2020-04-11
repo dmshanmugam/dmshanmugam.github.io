@@ -22,4 +22,4 @@ Gridlock: Crossword Puzzles and the Mad Geniuses Who Create Them, Matt Gaffney
 Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness, Nathanael Johnson \\
 Garlic and Sapphires: The Secret Life of a Critic in Disguise, Ruth Reichl \\
 Insomniac City: New York, Oliver, and Me, Bill Hayes \\
-Lillian Boxfish Takes a Walk
+Lillian Boxfish Takes a Walk, Kathleen Rooney
