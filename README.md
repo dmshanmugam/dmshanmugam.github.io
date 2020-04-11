@@ -1,21 +1,60 @@
-# Documentation
+# Researcher
 
-Compass is a Jekyll theme designed with something very specific in mind: to be a simple and elegant personal landing page that can be easily deployed to [GitHub Pages](https://pages.github.com/).
+### [Demo Website](http://ankitsultana.com/researcher)
 
-## How to use Compass
+A clean, single column, monospace resume template built for jekyll
 
-1. Start by [installing Bundler](http://bundler.io) `gem install bundler`
-2. [Fork the Compass repository](https://github.com/excentris/compass/fork)
-3. Clone the repository you just forked: `git clone https://github.com/YOUR-USER/compass`
-4. Then run `bundle install` to get [Jekyll](http://jekyllrb.com) and all the dependencies.
-5. Edit `_config.yml` as needed.
-6. Run the Jekyll server with `bundle exec jekyll serve`
-7. Go to `http://localhost:4000`
+### Installation
 
-## Deploy your site to GitHub Pages
+Simply fork the repository and edit away.
 
-If you want to use Compass as your personal landing page you can deploy your site to GitHub Pages as a [User Page](https://help.github.com/articles/user-organization-and-project-pages/#user--organization-pages). To do so, when you are done modifying your clone, you should rename your repository to `username.github.io` where username is your username. When GitHub builds the page it will be made available at `https://username.github.io`.
+#### Installation via remote themes
 
-If you are planning on using a custom domain to direct to your site, modify the CNAME file as described [here](https://help.github.com/articles/adding-a-cname-file-to-your-repository/).
+* Just setting `remote_theme: ankitsultana/researcher@gem` in `_config.yml` should work. Although in that case, I am not sure how
+you would build your site locally for testing. If you know how, open up an issue and let me know.
+* For more info, [refer this](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/).
 
-Check the [GitHub Pages Basics](https://help.github.com/categories/github-pages-basics/) for more information.
+### Customization
+
+* You can edit the `.md` (markdown) files as you see fit. You can also add some other markdown file, say `foo.md` in the root directory of the repository. It will then be accessible like so `{{ url of your website }}/foo`.
+
+* You can of course remove `contact.md` if you don't want it
+
+* To set the heading, edit the `title` variable in `_config.yml`
+
+* To edit the `links` mentioned on the navigation bar, you can edit `_config.yml`. For example:
+
+```
+nav:
+ - name: "About"
+   link: "/researcher/"
+ - name: "Resume"
+   link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"
+```
+
+* You can change the accent (color of hyperlinks) by editing the `accent` variable in `_sass/vars.scss`
+
+* You can setup google analytics, by setting `tracking_id` in `_config.yml`
+
+* To add a profile picture, make sure to give the image tag the class `profile-picture`. In other words,do it like so:
+
+```html
+<img class="profile-picture" src="sherlock.jpg">
+```
+
+* You can remove/customize the footer as you like by setting the
+appropriate variables in `_config.yml`
+
+* (New in v1.2.0) You can add institute logo at the top, by setting `ins_logo` in `_config.yml`. If you want
+to adjust the logo's size, try setting `max-height` in `#ins-logo` in file `./_sass/_style.scss` to the desired
+value
+
+![Institute Logo Image Sample](https://github.com/ankitsultana/assets/raw/master/ins-logo-sample.png)
+
+**Note:** Customizing the accent color might cause merge conflicts if you later try to merge from `bk2dcradle/researcher` to fetch updates/patches etc. (applicable only if you have forked).
+
+### License
+
+[GNU GPL v3](https://github.com/bk2dcradle/researcher/blob/gh-pages/LICENSE)

@@ -1,0 +1,29 @@
+# todos for this website
+- write out research summary
+- delete contact page
+- link in resume
+- update links for the publications
+- set up blog template
+- updated links for pre-prints
+- .md file for all the books i've read this year
+- .md file for all the crosswords i've made
+- reformat the crosswords i've made
+- and them all to a list
+
+
+- reformat how list of blogs are shown
+- add first blog! 
+
+bonus:
+- set up abstract for each
+- get rid of the little space above lines that include emojis.....
+
+
+front page will have:
+# About Me 
+# Publications
+# Projects
+# Selected Press
+# Hobbies
+
+top bar will have About / Resume / Projects / Blog 
