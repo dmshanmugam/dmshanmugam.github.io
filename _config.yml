@@ -14,8 +14,8 @@ footer_text: "~~~"
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/"
  - name: "Resume"
-   link: "/researcher/pdfs/cv.pdf"
+   link: "/pdfs/cv.pdf"
  - name: "Blog"
    link: "blog"
