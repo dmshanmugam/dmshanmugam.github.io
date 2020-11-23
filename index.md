@@ -17,7 +17,7 @@ I'm interested in how we can deploy and develop machine learning models in the p
 ## Conferences
 
 1. Unsupervised Domain Adaptation in the Absence of Source Data \\
-R. Sahoo*, D.Shanmugam*, J. Guttag \\
+R. Sahoo\*, D.Shanmugam\*, J. Guttag \\
 Uncertainty & Robustness in Deep Learning Workshop, ICML 2020 \\
 [[pdf](pdfs/udl_icml_2020.pdf)]
 
