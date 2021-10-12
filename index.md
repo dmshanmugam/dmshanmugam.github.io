@@ -63,7 +63,7 @@ J. Sahota, D. Shanmugam, J. Ramanan, S. Eghbali, M. Brubaker \\
 
 
 ## Selected Press
-
+MIT List Art Center, ["Agnieszka Kurant: End of Signature"](https://listart.mit.edu/agnieszka-kurant-end-signature-2020-21), September 2021 \\
 MIT News, ["Using machine learning to estimate the risk of cardiovascular death"](http://news.mit.edu/2019/using-machine-learning-estimate-risk-cardiovascular-death-0912), Rachel Gordon, September 12, 2019
 
 ## Etc
