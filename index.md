@@ -12,9 +12,22 @@ I went to MIT for undergrad and majored in computer science with a concentration
 
 ## Research Interests
 
-I'm interested in how we can deploy and develop machine learning models in the presence of unreliable data. Within this area, I'm interested in machine learning with noisy labels. Right now, I'm focused on **applications in women's health** including intimate partner violence and ovulatory disorders. 
+I'm interested in how we can deploy and develop machine learning models in the presence of unreliable data. I like to start with a specific clinical application and develop general-purpose machine learning techniques. I'm especially interested in **applications in women's health**, including ovulatory disorders and intimate partner violence, and techniques to address the **noisy labels** common to these settings.
 
-## Conferences
+## Working papers
+
+1. Quantifying Inequality in Underreported Medical Conditions \\
+D. Shanmugam, E. Pierson \\
+[[pdf](pdfs/rp_ml4h_2021.pdf)] 
+
+2. Learning to Limit Data Collection for Data Minimization \\
+D. Shanmugam, S. Shabanian, F. Diaz, M. Finck, A. Biega \\
+[[pdf](pdfs/llddm_aaai_2020.pdf)]
+
+3. Learning from Multiple Noisy Labels \\
+forthcoming! 
+
+## Publications
 
 1. Better Aggregation in Test-Time Augmentation \\
 D. Shanmugam, D. Blalock, G. Balakrishnan, J. Guttag \\
@@ -47,7 +60,7 @@ Women in Machine Learning Workshop 2017 \\
 [[poster](pdfs/wimlposter_2017.pdf)]
 
 
-## Pre-prints
+<!-- ## Working papers
 
 1. Quantifying Inequality in Underreported Medical Conditions \\
 D. Shanmugam, E. Pierson \\
@@ -57,14 +70,23 @@ D. Shanmugam, E. Pierson \\
 D. Shanmugam, S. Shabanian, F. Diaz, M. Finck, A. Biega \\
 [[pdf](pdfs/llddm_aaai_2020.pdf)]
 
+3. Learening from Multiple Noisy Labels \\
+forthcoming! 
+
 3. Addressing Feature-Dependent Label Noise: A Generative Framework \\
 J. Sahota, D. Shanmugam, J. Ramanan, S. Eghbali, M. Brubaker \\
 [[pdf](pdfs/KDD_2019_label_noise_correction.pdf)]
+ -->
 
+## News & Updates
 
-## Selected Press
-MIT List Art Center, ["Agnieszka Kurant: End of Signature"](https://listart.mit.edu/agnieszka-kurant-end-signature-2020-21), September 2021 \\
-MIT News, ["Using machine learning to estimate the risk of cardiovascular death"](http://news.mit.edu/2019/using-machine-learning-estimate-risk-cardiovascular-death-0912), Rachel Gordon, September 12, 2019
+11.12.2021 --- The New York Times Style Magazine wrote about our work to create an AI-generated sculpture in Kendall Square [here](https://www.nytimes.com/2021/11/12/t-magazine/agnieszka-kurant-art.html).
+11.05.2021 --- Won best talk @ MIT's Graduate Women in Computer Science Summit \\
+11.04.2021 --- Invited talk @ Cornell Information Sciences Seminar, "Quantifying Inequality in Underreported Medical Conditions"\\
+09.01.2021 --- The MIT List Art Center wrote about our workr on "End of Signature", an AI-generated sculpture of the "average" signature [here](https://listart.mit.edu/agnieszka-kurant-end-signature-2020-21)\\
+06.05.2020 --- Invited talk @  the Hill Lab at Texas Christian University, "Machine Learning for Women's Health"
+09.12.2019 --- MIT News wrote about our work, "Using machine learning to estimate the risk of cardiovascular 
+death" [here](http://news.mit.edu/2019/using-machine-learning-estimate-risk-cardiovascular-death-0912)
 
 ## Etc
 
