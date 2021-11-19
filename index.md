@@ -8,7 +8,7 @@ layout: default
 
 I'm a Ph.D. student at MIT in the [Clinical and Applied Machine Learning Group](ddig.mit.edu). I work on building machine learning models that are resilient to unreliable data. This [interest map](pdfs/interest_map.pdf) summarizes questions I care about.
 
-I went to MIT for undergrad and majored in computer science with a concentration in South Asian studies. I'm also a former intern at Microsoft Research (x2), Borealis AI, D.E. Shaw Research, Counsyl and Aetion. You can find my CV [here](pdfs/cv.pdf) or email me at divyas at mit dot edu, or both! 
+I went to MIT for undergrad and majored in computer science with a concentration in South Asian studies. I'm also a former intern at Microsoft Research (x2), Borealis AI, D.E. Shaw Research, Counsyl and Aetion. You can find my CV [here](pdfs/cv_11_19_2021.pdf) or email me at divyas at mit dot edu, or both! 
 
 ## Research Interests
 
