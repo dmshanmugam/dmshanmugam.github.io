@@ -68,9 +68,9 @@ Women in Machine Learning Workshop 2017 \\
 
 ## News & Updates
 
-Year | Award | Category
+Date | Update | Category
 -----|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
+July 1, 2022 | Presented work at FAccT in Seoul, South Korea!  | Won Outstanding Lead Actor in a miniseries or a movie
 2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
 2014 | Satellite | Won Best Actor miniseries or television film
 
