@@ -76,9 +76,7 @@ Nov 2021 | Presented work on "Better Aggregation in Test-Time Augmentation" at I
 Nov 2021 | Won Best Lightning Talk at the GW6 Summit
 Nov 2021 | Delivered talk on "Quantifying Inequality in Underreported Medical Conditions" to Cornell Information Sciences Seminar
 Sep 2021 | MIT List Center covered our work on an AI-generated sculpture in Kendall Square [here](https://listart.mit.edu/agnieszka-kurant-end-signature-2020-21)
-Jun 2020 | Delivered talk @  the Hill Lab at Texas Christian University, on "Machine Learning for Women's Health" \\
-09.12.2019 --- MIT News wrote about our work, "Using machine learning to estimate the risk of cardiovascular 
-death" [here](http://news.mit.edu/2019/using-machine-learning-estimate-risk-cardiovascular-death-0912)
+Jun 2020 | BAFTA 
 2014 | Satellite 
 
 
