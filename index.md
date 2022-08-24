@@ -67,6 +67,15 @@ Women in Machine Learning Workshop 2017 \\
  
 
 ## News & Updates
+|              |                                                                                                                                                                                                       |
+|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 07.01.2022   | Presented our work on limiting data collection at FAccT in Seoul, South Korea.                                                                                                                        |
+|   11.12.2021 |   The New York Times Style Magazine wrote about our work to create an AI-generated sculpture in Kendall Square [here](https://www.nytimes.com/2021/11/12/t-magazine/agnieszka-kurant-art.html).       |
+| 11.05.2021   |   Won best lightning talk @ MIT's Graduate Women in Computer Science Summit 🥳                                                                                                                         |
+| 11.04.2021   | Invited talk @ Cornell Information Sciences Seminar, "Quantifying Inequality in Underreported Medical Conditions"                                                                                     |
+| 09.01.2021   | The MIT List Art Center wrote about our work on "End of Signature", an AI-generated sculpture of the "average" signature [here](https://listart.mit.edu/agnieszka-kurant-end-signature-2020-21)       |
+| 06.05.2020   | Invited talk @ the Hill Lab at Texas Christian University, "Machine Learning for Women's Health"                                                                                                      |
+| 09.12.2019   | MIT News wrote about our work, "Using machine learning to estimate the risk of cardiovascular death"  [here](http://news.mit.edu/2019/using-machine-learning-estimate-risk-cardiovascular-death-0912) |
 
 07.01.2022 --- Presented our work on limiting data collection at FAccT in Seoul, South Korea.
 11.12.2021 --- The New York Times Style Magazine wrote about our work to create an AI-generated sculpture in Kendall Square [here](https://www.nytimes.com/2021/11/12/t-magazine/agnieszka-kurant-art.html). \\
