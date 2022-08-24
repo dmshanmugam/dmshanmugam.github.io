@@ -68,7 +68,7 @@ Women in Machine Learning Workshop 2017 \\
 
 ## News & Updates
 
-Date | Update | Category
+ |  | 
 -----|-------|--------
 July 1, 2022 | Presented work at FAccT in Seoul, South Korea!  | Won Outstanding Lead Actor in a miniseries or a movie
 2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
