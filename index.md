@@ -20,19 +20,22 @@ I'm interested in how we can deploy and develop machine learning models in the p
 D. Shanmugam, E. Pierson \\
 [[pdf](pdfs/rp_ml4h_2021.pdf)] 
 
-2. Learning to Limit Data Collection for Data Minimization \\
-D. Shanmugam, S. Shabanian, F. Diaz, M. Finck, A. Biega \\
-[[pdf](pdfs/llddm_aaai_2020.pdf)]
 
 3. Learning from Multiple Noisy Labels \\
 forthcoming! 
 
 ## Publications
 
-1. Better Aggregation in Test-Time Augmentation \\
+1. Learning to Limit Data Collection for Data Minimization \\
+D. Shanmugam, S. Shabanian, F. Diaz, M. Finck, A. Biega \\
+Fairness, Accountability and Transparency Conference 2022 \\
+[[pdf](pdfs/llddm_aaai_2020.pdf)]
+
+
+2. Better Aggregation in Test-Time Augmentation \\
 D. Shanmugam, D. Blalock, G. Balakrishnan, J. Guttag \\
 International Conference on Computer Vision 2021 \\
-[[pdf](pdfs/tta_iccv_2021.pdf), [slides](pdfs/tta_iccv_slides.pdf), [poster](pdfs/tta_iccv_poster.pdf)] **Oral Presentation** \\\\
+[[pdf](pdfs/tta_iccv_2021.pdf), [slides](pdfs/tta_iccv_slides.pdf), [poster](pdfs/tta_iccv_poster.pdf)] **Oral Presentation** \\
 
 When and  Why Test-Time Augmentation Works \\ 
 D.  Shanmugam, D. Blalock, G. Balalkrishnan, J. Guttag \\
@@ -86,7 +89,8 @@ J. Sahota, D. Shanmugam, J. Ramanan, S. Eghbali, M. Brubaker \\
 
 ## News & Updates
 
-[11.12.2021] --- The New York Times Style Magazine wrote about our work to create an AI-generated sculpture in Kendall Square [here](https://www.nytimes.com/2021/11/12/t-magazine/agnieszka-kurant-art.html).
+07.01.2022 --- Presented our work on limiting data collection at FAccT in Seoul, South Korea.
+11.12.2021 --- The New York Times Style Magazine wrote about our work to create an AI-generated sculpture in Kendall Square [here](https://www.nytimes.com/2021/11/12/t-magazine/agnieszka-kurant-art.html). \\
 11.05.2021 --- Won best talk @ MIT's Graduate Women in Computer Science Summit 🥳 \\
 11.04.2021 --- Invited talk @ Cornell Information Sciences Seminar, "Quantifying Inequality in Underreported Medical Conditions"\\
 09.01.2021 --- The MIT List Art Center wrote about our work on "End of Signature", an AI-generated sculpture of the "average" signature [here](https://listart.mit.edu/agnieszka-kurant-end-signature-2020-21)\\
