@@ -29,16 +29,15 @@ forthcoming!
 1. Learning to Limit Data Collection for Data Minimization \\
 D. Shanmugam, S. Shabanian, F. Diaz, M. Finck, A. Biega \\
 Fairness, Accountability and Transparency Conference 2022 \\
-[[pdf](pdfs/llddm_aaai_2020.pdf)]
+[[pdf](pdfs/facct_2022_lldc.pdf)]
 
 
 2. Better Aggregation in Test-Time Augmentation \\
 D. Shanmugam, D. Blalock, G. Balakrishnan, J. Guttag \\
 International Conference on Computer Vision 2021 \\
-[[pdf](pdfs/tta_iccv_2021.pdf), [slides](pdfs/tta_iccv_slides.pdf), [poster](pdfs/tta_iccv_poster.pdf)] **Oral Presentation** \\
-
+[[pdf](pdfs/tta_iccv_2021.pdf), [supplement](pdfs/2021_ICCV_TTA_supplement.pdf), [slides](pdfs/tta_iccv_slides.pdf), [poster](pdfs/tta_iccv_poster.pdf)] **Oral Presentation** \\
 When and  Why Test-Time Augmentation Works \\ 
-D.  Shanmugam, D. Blalock, G. Balalkrishnan, J. Guttag \\
+D.  Shanmugam, D. Blalock, G. Balakrishnan, J. Guttag \\
 arxiv preprint, earlier version
 [[pdf](pdfs/when_and_why.pdf)]
 
