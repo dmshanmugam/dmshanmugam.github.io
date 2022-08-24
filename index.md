@@ -67,6 +67,14 @@ Women in Machine Learning Workshop 2017 \\
  
 
 ## News & Updates
+
+Year | Award | Category
+-----|-------|--------
+2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
+2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
+2014 | Satellite | Won Best Actor miniseries or television film
+
+
 07.01.2022 --- Presented our work on limiting data collection at FAccT in Seoul, South Korea.
 11.12.2021 --- The New York Times Style Magazine wrote about our work to create an AI-generated sculpture in Kendall Square [here](https://www.nytimes.com/2021/11/12/t-magazine/agnieszka-kurant-art.html). \\
 11.05.2021 --- Won best talk @ MIT's Graduate Women in Computer Science Summit 🥳 \\
