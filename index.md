@@ -32,7 +32,14 @@ forthcoming!
 1. Better Aggregation in Test-Time Augmentation \\
 D. Shanmugam, D. Blalock, G. Balakrishnan, J. Guttag \\
 International Conference on Computer Vision 2021 \\
-[[pdf](pdfs/tta_iccv_2021.pdf), [slides](pdfs/tta_iccv_slides.pdf), [poster](pdfs/tta_iccv_poster.pdf)] **Oral Presentation**
+[[pdf](pdfs/tta_iccv_2021.pdf), [slides](pdfs/tta_iccv_slides.pdf), [poster](pdfs/tta_iccv_poster.pdf)] **Oral Presentation** \\\\
+
+When and  Why Test-Time Augmentation Works \\ 
+D.  Shanmugam, D. Blalock, G. Balalkrishnan, J. Guttag \\
+arxiv preprint, earlier version
+[[pdf](pdfs/when_and_why.pdf)]
+
+
 
 2. Unsupervised Domain Adaptation in the Absence of Source Data \\
 R. Sahoo\*, D.Shanmugam\*, J. Guttag \\
@@ -58,7 +65,6 @@ Women in Machine Learning Workshop 2017 \\
 H. Suresh, D. Shanmugam \\
 Women in Machine Learning Workshop 2017 \\
 [[poster](pdfs/wimlposter_2017.pdf)]
-
 
 <!-- ## Working papers
 
