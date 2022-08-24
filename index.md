@@ -70,7 +70,11 @@ Women in Machine Learning Workshop 2017 \\
 
  |  
 --------|----------------
-July 2022 | Presented work at FAccT in Seoul, South Korea!  
+Jul 2022 | Presented "Learning to Limit Data Collection via Scaling Laws" at FAccT in South Korea.
+Nov 2021 | New York Times Style Magazine covered our work on an [AI-generated sculpture in Kendall Square](https://www.nytimes.com/2021/11/12/t-magazine/agnieszka-kurant-art.html))
+Nov 2021 | Won Best Lightning Talk at the GW6 Summit
+Nov 2021 | Delivered talk on "Quantifying Inequality in Underreported Medical Conditions" to Cornell Information Sciences Seminar
+Sep 2021 | MIT List Center covered our work on an AI-generated sculpture in Kendall Square [here](https://listart.mit.edu/agnieszka-kurant-end-signature-2020-21)
 2015 | BAFTA 
 2014 | Satellite 
 
