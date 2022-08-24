@@ -26,7 +26,7 @@ forthcoming!
 
 ## Publications
 
-1. Learning to Limit Data Collection for Data Minimization \\
+1. Learning to Limit Data Collection for Data Minimization via Scaling Laws: A Computational Interpretation for the Legal Principle  of Data Minimization\\
 D. Shanmugam, S. Shabanian, F. Diaz, M. Finck, A. Biega \\
 Fairness, Accountability and Transparency Conference 2022 \\
 [[pdf](pdfs/facct_2022_lldc.pdf)]
@@ -35,56 +35,36 @@ Fairness, Accountability and Transparency Conference 2022 \\
 2. Better Aggregation in Test-Time Augmentation \\
 D. Shanmugam, D. Blalock, G. Balakrishnan, J. Guttag \\
 International Conference on Computer Vision 2021 \\
-[[pdf](pdfs/tta_iccv_2021.pdf), [supplement](pdfs/2021_ICCV_TTA_supplement.pdf), [slides](pdfs/tta_iccv_slides.pdf), [poster](pdfs/tta_iccv_poster.pdf)] **Oral Presentation** \\
-When and  Why Test-Time Augmentation Works \\ 
-D.  Shanmugam, D. Blalock, G. Balakrishnan, J. Guttag \\
-arxiv preprint, earlier version
-[[pdf](pdfs/when_and_why.pdf)]
+[[pdf](pdfs/tta_iccv_2021.pdf), [supplement](pdfs/2021_ICCV_TTA_supplement.pdf), [slides](pdfs/tta_iccv_slides.pdf), [poster](pdfs/tta_iccv_poster.pdf)] **Oral Presentation**
 
 
 
-2. Unsupervised Domain Adaptation in the Absence of Source Data \\
+
+3. Unsupervised Domain Adaptation in the Absence of Source Data \\
 R. Sahoo\*, D.Shanmugam\*, J. Guttag \\
 Uncertainty & Robustness in Deep Learning Workshop, ICML 2020 \\
 [[pdf](pdfs/udl_icml_2020.pdf)]
 
-3. Multiple Instance Learning for ECG Risk Stratification \\
+4. Multiple Instance Learning for ECG Risk Stratification \\
 D. Shanmugam, D. Blalock, J. Guttag \\
 Machine Learning in Healthcare Conference 2019 \\
 [[pdf](pdfs/ecg_mlhc_2019.pdf), [slides](pdfs/ecg_mlhc_slides.pdf), [poster](pdfs/ecg_mlhc_poster.pdf)] **Oral Presentation**
 
-4. Automated Image Segmentation of Liver Stage Malaria Infection \\
+5. Automated Image Segmentation of Liver Stage Malaria Infection \\
 AP. Soleimany, H. Suresh, JJG. Ortiz, D. Shanmugam, N. Gural, J. Guttag, SN. Bhatia \\
 Computational Biology Workshop ICML 2019 \\
 [[pdf](pdfs/icml_workshop_2019.pdf), [poster](pdfs/icml_2019_poster.pdf)]
 
-5. A Convolutional Approach to Multivariate Time Series Comparison \\
+6. A Convolutional Approach to Multivariate Time Series Comparison \\
 D. Shanmugam, D. Blalock, J. Guttag: Jiffy \\
 Women in Machine Learning Workshop 2017 \\
 [[pdf](pdfs/jiffy.pdf), [poster](pdfs/jiffy_wiml_poster.pdf)]
 
-6. Disparities in the performance of Natural Language Processing Tools \\
+7. Disparities in the performance of Natural Language Processing Tools \\
 H. Suresh, D. Shanmugam \\
 Women in Machine Learning Workshop 2017 \\
 [[poster](pdfs/wimlposter_2017.pdf)]
-
-<!-- ## Working papers
-
-1. Quantifying Inequality in Underreported Medical Conditions \\
-D. Shanmugam, E. Pierson \\
-[[pdf](pdfs/rp_ml4h_2021.pdf)] 
-
-2. Learning to Limit Data Collection for Data Minimization \\
-D. Shanmugam, S. Shabanian, F. Diaz, M. Finck, A. Biega \\
-[[pdf](pdfs/llddm_aaai_2020.pdf)]
-
-3. Learening from Multiple Noisy Labels \\
-forthcoming! 
-
-3. Addressing Feature-Dependent Label Noise: A Generative Framework \\
-J. Sahota, D. Shanmugam, J. Ramanan, S. Eghbali, M. Brubaker \\
-[[pdf](pdfs/KDD_2019_label_noise_correction.pdf)]
- -->
+ 
 
 ## News & Updates
 
@@ -96,6 +76,17 @@ J. Sahota, D. Shanmugam, J. Ramanan, S. Eghbali, M. Brubaker \\
 06.05.2020 --- Invited talk @  the Hill Lab at Texas Christian University, "Machine Learning for Women's Health" \\
 09.12.2019 --- MIT News wrote about our work, "Using machine learning to estimate the risk of cardiovascular 
 death" [here](http://news.mit.edu/2019/using-machine-learning-estimate-risk-cardiovascular-death-0912)
+
+## Preprints (forever)
+
+1. When and Why Test-Time Augmentation Works \\
+D.  Shanmugam, D. Blalock, G. Balakrishnan, J. Guttag \\
+[[pdf](pdfs/when_and_why.pdf)] 
+
+
+2. Addressing Feature-Dependent Label Noise: A Generative Framework \\
+J. Sahota, D. Shanmugam, J. Ramanan, S. Eghbali, M. Brubaker \\
+[[pdf](pdfs/KDD_2019_label_noise_correction.pdf)]
 
 ## Etc
 
