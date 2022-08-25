@@ -64,28 +64,19 @@ Women in Machine Learning Workshop 2017 \\
 H. Suresh, D. Shanmugam \\
 Women in Machine Learning Workshop 2017 \\
 [[poster](pdfs/wimlposter_2017.pdf)]
- 
 
- Updates ! |  
-:---------:|----------------
-Jul 2022 | Gave talk on "Learning to Limit Data Collection" at FAccT in Seoul!
+## Updates 
+
+  |  
+:---------|----------------
+JUL2022 | Gave talk on "Learning to Limit Data Collection" at FAccT in Seoul!
 Nov 2021 | NYT Style Magazine covered our [AI-generated sculpture in Kendall Square](https://www.nytimes.com/2021/11/12/t-magazine/agnieszka-kurant-art.html)
-Nov 2021 | Gave talk on "Better Aggregation in Test-Time Augmentation" at ICCV 2021
-Nov 2021 | Won Best Lightning Talk at the GW6 Summit
-Nov 2021 | Gave talk on "Quantifying Inequality in Underreported Outcomes" to Cornell IS Seminar
-Sep 2021 | MIT List Center covered our [AI-generated sculpture in Kendall Square](https://listart.mit.edu/agnieszka-kurant-end-signature-2020-21)
-Jun 2020 | Gave a talk on "ML for Women's Health" at Texas Christian University
-
-
-
-07.01.2022 --- Presented our work on limiting data collection at FAccT in Seoul, South Korea.
-11.12.2021 --- The New York Times Style Magazine wrote about our work to create an AI-generated sculpture in Kendall Square [here](https://www.nytimes.com/2021/11/12/t-magazine/agnieszka-kurant-art.html). \\
-11.05.2021 --- Won best talk @ MIT's Graduate Women in Computer Science Summit 🥳 \\
-11.04.2021 --- Invited talk @ Cornell Information Sciences Seminar, "Quantifying Inequality in Underreported Medical Conditions"\\
-09.01.2021 --- The MIT List Art Center wrote about our work on "End of Signature", an AI-generated sculpture of the "average" signature [here](https://listart.mit.edu/agnieszka-kurant-end-signature-2020-21)\\
-06.05.2020 --- Invited talk @  the Hill Lab at Texas Christian University, "Machine Learning for Women's Health" \\
-09.12.2019 --- MIT News wrote about our work, "Using machine learning to estimate the risk of cardiovascular 
-death" [here](http://news.mit.edu/2019/using-machine-learning-estimate-risk-cardiovascular-death-0912)
+NOV2021 | Gave talk on "Better Aggregation in Test-Time Augmentation" at ICCV 2021
+NOV2021 | Won Best Lightning Talk at the GW6 Summit
+NOV2021 | Gave talk on "Quantifying Inequality in Underreported Outcomes" @ Cornell IS Seminar.
+SEP2021 | MIT List Center covered our [AI-generated sculpture in Kendall Square](https://listart.mit.edu/agnieszka-kurant-end-signature-2020-21)
+JUN2020 | Gave a talk on "ML for Women's Health" at Texas Christian University.
+Sep 2019 | MIT News [covered](http://news.mit.edu/2019/using-machine-learning-estimate-risk-cardiovascular-death-0912) our work on cardiovascular risk stratification. 
 
 ## Preprints (forever)
 
