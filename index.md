@@ -70,11 +70,11 @@ Women in Machine Learning Workshop 2017 \\
   |  
 :---------|----------------
 JUL2022 | Gave talk on "Learning to Limit Data Collection" at FAccT in Seoul!
-Nov 2021 | NYT Style Magazine covered our [AI-generated sculpture in Kendall Square](https://www.nytimes.com/2021/11/12/t-magazine/agnieszka-kurant-art.html)
-NOV2021 | Gave talk on "Better Aggregation in Test-Time Augmentation" at ICCV 2021
-NOV2021 | Won Best Lightning Talk at the GW6 Summit
+Nov 2021 | NYT Style Magazine [covered](https://www.nytimes.com/2021/11/12/t-magazine/agnieszka-kurant-art.html) our AI-generated sculpture in Kendall Square.
+NOV2021 | Gave talk on "Better Aggregation in Test-Time Augmentation" at ICCV 2021.
+NOV2021 | Won Best Lightning Talk at the GW6 Summit.
 NOV2021 | Gave talk on "Quantifying Inequality in Underreported Outcomes" @ Cornell IS Seminar.
-SEP2021 | MIT List Center covered our [AI-generated sculpture in Kendall Square](https://listart.mit.edu/agnieszka-kurant-end-signature-2020-21)
+SEP2021 | MIT List Center [covered](https://listart.mit.edu/agnieszka-kurant-end-signature-2020-21) our AI-generated sculpture in Kendall Square.
 JUN2020 | Gave a talk on "ML for Women's Health" at Texas Christian University.
 Sep 2019 | MIT News [covered](http://news.mit.edu/2019/using-machine-learning-estimate-risk-cardiovascular-death-0912) our work on cardiovascular risk stratification. 
 
