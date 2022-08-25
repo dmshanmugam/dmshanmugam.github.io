@@ -68,7 +68,7 @@ Women in Machine Learning Workshop 2017 \\
 ## Updates 
 
   |  
-:---------|----------------
+:--------:|----------------
 Jul 2022 | Gave talk on "Learning to Limit Data Collection" at FAccT in Seoul!
 Nov 2021 | NYT Style Magazine [covered](https://www.nytimes.com/2021/11/12/t-magazine/agnieszka-kurant-art.html) our AI-generated sculpture in Kendall Square.
 Nov 2021 | Gave talk on "Better Aggregation in Test-Time Augmentation" at ICCV 2021.
