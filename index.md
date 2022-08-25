@@ -78,7 +78,9 @@ Sep 2021 | MIT List Center [covered](https://listart.mit.edu/agnieszka-kurant-en
 Jun 2020 | Gave a talk on "ML for Women's Health" at Texas Christian University.
 Sep 2019 | MIT News [covered](http://news.mit.edu/2019/using-machine-learning-estimate-risk-cardiovascular-death-0912) our work on cardiovascular risk stratification. 
 
-## Preprints (forever)
+## Preprints 
+
+> "Nothing stinks like a pile of unpublished writing, which remark I guess shows I still don’t have a pure motive (O it’s-such-fun-I-just-can’t-stop-who-cares-if-it’s-published-or-read) about writing....I still want to see it finally ritualized in print." - Sylvia Plath
 
 1. When and Why Test-Time Augmentation Works \\
 D.  Shanmugam, D. Blalock, G. Balakrishnan, J. Guttag \\
