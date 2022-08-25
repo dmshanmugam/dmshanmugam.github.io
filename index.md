@@ -73,7 +73,7 @@ Women in Machine Learning Workshop 2017 \\
 ## Updates 
 
  |
-:------|----------------
+:-----|----------------
 Jul 2022 | Gave talk on "Learning to Limit Data Collection" at FAccT in Seoul!
 Nov 2021 | NYT Style Magazine [covered](https://www.nytimes.com/2021/11/12/t-magazine/agnieszka-kurant-art.html) our AI-generated sculpture in Kendall Square.
 Nov 2021 | Gave talk on "Better Aggregation in Test-Time Augmentation" at ICCV 2021.
@@ -85,7 +85,7 @@ Sep 2019 | MIT News [covered](http://news.mit.edu/2019/using-machine-learning-es
 
 ## Preprints 
 
-_"Nothing stinks like a pile of unpublished writing, which remark I guess shows I still don’t have a pure motive (O it’s-such-fun-I-just-can’t-stop-who-cares-if-it’s-published-or-read) about writing....I still want to see it finally ritualized in print."_ - Sylvia Plath, _The Bell Jar_
+_"Nothing stinks like a pile of unpublished writing"_ - Sylvia Plath, _The Bell Jar_
 
 1. When and Why Test-Time Augmentation Works \\
 D.  Shanmugam, D. Blalock, G. Balakrishnan, J. Guttag \\
