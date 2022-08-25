@@ -45,7 +45,7 @@ Machine Learning in Healthcare Conference 2019 \\
 
 ## Workshop Papers
 
-1. Improved Text Classification via Test-Time Augmentation \\ 
+1. Improved Text Classification via Test-Time Augmentation \\
 H. Lu, D. Shanmugam, H. Suresh, J. Guttag \\
 UpdatableML Workshop, ICML 2020 \\
 [[pdf](https://arxiv.org/abs/2206.13607)]
@@ -72,7 +72,7 @@ Women in Machine Learning Workshop 2017 \\
 
 ## Updates 
 
-<!-- -->    | <!-- -->    
+ |
 :------|----------------
 Jul 2022 | Gave talk on "Learning to Limit Data Collection" at FAccT in Seoul!
 Nov 2021 | NYT Style Magazine [covered](https://www.nytimes.com/2021/11/12/t-magazine/agnieszka-kurant-art.html) our AI-generated sculpture in Kendall Square.
