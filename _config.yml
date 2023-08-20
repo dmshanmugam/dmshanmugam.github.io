@@ -2,7 +2,7 @@ title: Divya Shanmugam
 firstname: Divya
 lastname: Shanmugam
 url: "https://dmshanmugam.github.io"
-baseurl: "/"
+baseurl:  "https://dmshanmugam.github.io"
 author: "Divya Shanmugam"
 
 markdown: kramdown
@@ -31,3 +31,4 @@ nav:
    link: "/blog/"
  - name: "Misc"
    link: "/misc/"
+ 
