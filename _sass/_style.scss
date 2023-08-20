@@ -288,6 +288,7 @@ font-family: merriweather-regular;
         // display: none;
         // visibility: hidden;
         float:  none;
+        align-items: center;
     }
 
     .navbar-text {
@@ -302,6 +303,7 @@ font-family: merriweather-regular;
         display: block;
         float: none;
         margin: none;
+        box-sizing: border-box;
     }
     #author-first-name {
 		width: 100%;

@@ -22,9 +22,7 @@ footer_url: ""
 footer_text: "***"
 
 nav:
- - name: "About"
-   link: "/index"
- - name: "Publications"
+ - name: "Research"
    link: "/publications"
  - name: "Projects"
    link: "/projects"
@@ -32,4 +30,7 @@ nav:
    link: "/blog"
  - name: "Misc"
    link: "/misc"
+ - name: "CV"
+   link: "/assets/cv.pdf"
+
  
