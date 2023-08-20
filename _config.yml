@@ -2,7 +2,7 @@ title: Divya Shanmugam
 firstname: Divya
 lastname: Shanmugam
 url: "https://dmshanmugam.github.io"
-baseurl:  "/"
+baseurl:  ""
 # url: "/"
 # baseurl:  "/"
 author: "Divya Shanmugam"
@@ -12,7 +12,6 @@ markdown: kramdown
 twitter_username: dmshanmugam
 
 header: assets/profile.png
-
 
 sass:
     style: compressed
@@ -24,7 +23,7 @@ footer_text: "***"
 
 nav:
  - name: "About"
-   link: "/"
+   link: "/index"
  - name: "Publications"
    link: "/publications"
  - name: "Projects"
