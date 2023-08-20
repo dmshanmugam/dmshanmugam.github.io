@@ -2,7 +2,7 @@ title: Divya Shanmugam
 firstname: Divya
 lastname: Shanmugam
 url: "https://dmshanmugam.github.io"
-baseurl:  "https://dmshanmugam.github.io"
+baseurl:  "/"
 author: "Divya Shanmugam"
 
 markdown: kramdown
