@@ -93,6 +93,8 @@
 
                             {% if x.name == "Resume" %}
                                 <li class="alignable pull-left nav-list"><a target="_blank" href="{{ domain }}{{ x.link }}">{{ x.name }}</a>
+                            {%elsif x.name == "CV" %}
+                                <li class="alignable pull-left nav-list"><a href="{{ domain }}{{ x.link }}">{{ x.name }}</a>
                             {% else %}
                                 <li class="alignable pull-left nav-list"><a href="{{ domain }}{{ x.link }}.html">{{ x.name }}</a>
                             {% endif %}
