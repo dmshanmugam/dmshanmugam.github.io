@@ -87,9 +87,9 @@
                     <ul id="navlist" class="alignable pull-left navbar-ul">
                         {% for x in site.nav %}
 
-                            {% if link.url contains 'http' %}
+                            {% if x.link contains 'http' %}
                                 {% assign domain = '' %}
-                            {% elsif link.url contains 'mailto' %}
+                            {% elsif x.link contains 'mailto' %}
                                 {% assign domain = '' %}
                             {% else %}
                                 {% assign domain = site.url | append: site.baseurl %}
