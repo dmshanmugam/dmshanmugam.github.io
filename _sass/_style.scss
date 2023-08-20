@@ -46,7 +46,7 @@ hr {
     color: #272727;
     display: inline-block;
     margin: 0px 0 0px 0px;
-    padding-top: 42px;
+    padding-top: 55px;
 }
 
 #author-first-name {
@@ -66,7 +66,7 @@ hr {
 #author-role {
     font-size: 23px;
     color: #272727;
-    display: inline-block;
+    display: block;
     margin: 0px 0 0 0px;
     font-family: titillium-regular;
 }
@@ -74,7 +74,7 @@ hr {
 #author-email {
     font-size: 23px;
     color: #272727;
-    display: inline-block;
+    display: block;
     margin: 0px 0 0 0px;
     padding-bottom: 15px;
     font-family: titillium-regular;
@@ -95,9 +95,12 @@ body {
 }
 
 
+#navbar-text {
+    margin-left: 0px;
+}
 
 .navbar {
-    padding: 25px 0 25px 0;
+    padding: 50px 0 30px 0;
     align-items: center;
     display: flex;
 }
@@ -108,8 +111,8 @@ body {
   }
 
 .navbar-text {
-display: inline-block;
-font-family: merriweather-regular;
+    display: inline-block;
+    font-family: merriweather-regular;
 }
 
 .navbar-ul {
@@ -365,6 +368,10 @@ font-family: merriweather-regular;
 
     body {
         padding-bottom: 200px;
+    }
+
+    #navbar-text {
+        margin: auto;
     }
 }
 
