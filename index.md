@@ -4,8 +4,9 @@ layout: default
 
 <!-- <img class="profile-picture" src="/assets/profile.png"> -->
 
-[**I’m on the job market!**]() \\
-[**Please reach out if you know of an opportunity that would fit my background.**]()
+**I’m on the job market!** \\
+**Please reach out if you know of an opportunity that would fit my background.**
+
 
 I am a final-year Ph.D. student at MIT in the [Clinical and Applied Machine Learning Group](https://mit-caml.github.io), where I am fortunate to be advised by John Guttag.
 

@@ -68,28 +68,19 @@
     <div class="wrapper">
         
         <div class="navbar container">
-
-            <!-- <div class="navbar-photo container pull-left"> -->
-                <img id="author-picture" class="pull-left", src="/assets/profile.png">
-            <!-- </div> -->
-
-            <div class="navbar-text container pull-left"> 
-                <!-- <div>  -->
-                    <a id="author-name" class="alignable pull-left" href="{{ site.baseurl }}"> 
+            
+            <div class="navbar-text container pull-left stack-on-small"> 
+                    <a id="author-name" class="alignable pull-left stack-on-small" href="{{ site.baseurl }}"> 
                         
-                    <div id="author-first-name">{{ site.firstname }}&#8201</div>{{site.lastname}}</a>
-                <!-- </div> -->
-                <!-- <div>  -->
-                    <a id="author-role" class="alignable" href="{{ site.baseurl }}">Ph.D. Student, MIT</a>
+                    <div id="author-first-name" class="stack-on-small">{{ site.firstname }}&#8201</div><div id="author-last-name">{{site.lastname}}</div></a>
+
+                    <a id="author-role" class="alignable stack-on-small" href="{{ site.baseurl }}">Ph.D. Student, MIT</a>
                     <br>
-                <!-- </div>
-                <div>  -->
+
                     <div id="author-email" class="alignabl pull-left">divyas @ mit.edu</div>
-                    <br>
-                <!-- </div>
-                    
-                <div>  -->
-                    <ul id="navlist" class="alignable pull-left navbar-ul">
+                    <br id="author-email-br">
+
+                    <ul id="navlist" class="alignable pull-left navbar-ul stack-on-small">
                         {% for x in site.nav %}
 
                             {% if x.link contains 'http' %}
@@ -111,7 +102,9 @@
                                 </li>
                         {% endfor %}
                     </ul>
-                <!-- </div> -->
+            </div>
+            <div class="navbar  container navbar-photo">
+                <img id="author-picture" class="pull-left stack-on-small", src="/assets/profile.png">
             </div>
         </div>
         <div style="clear:both"></div>
