@@ -86,10 +86,19 @@
                 <div>  -->
                     <ul id="navlist" class="alignable pull-left navbar-ul">
                         {% for x in site.nav %}
-                            {% if x.name == "Resume" %}
-                                <li class="alignable pull-left nav-list"><a target="_blank" href="{{ x.link }}">{{ x.name }}</a>
+
+                            {% if link.url contains 'http' %}
+                                {% assign domain = '' %}
+                            {% elsif link.url contains 'mailto' %}
+                                {% assign domain = '' %}
                             {% else %}
-                                <li class="alignable pull-left nav-list"><a href="{{ x.link }}">{{ x.name }}</a>
+                                {% assign domain = site.url | append: site.baseurl %}
+                            {% endif %}
+
+                            {% if x.name == "Resume" %}
+                                <li class="alignable pull-left nav-list"><a target="_blank" href="{{ domain }}{{ x.link }}">{{ x.name }}</a>
+                            {% else %}
+                                <li class="alignable pull-left nav-list"><a href="{{ domain }}{{ x.link }}">{{ x.name }}</a>
                             {% endif %}
                             {% if forloop.last == false %}
                                 /
