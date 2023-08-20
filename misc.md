@@ -2,9 +2,9 @@
 layout: default
 ---
 
-I like read [books](books). This website design is a modification of [this repo](https://github.com/ankitsultana/researcher), with inspiration drawn from [these](https://josejg.com) [websites](https://nadia.xyz).
+I like to read books. The website design is inspired by many others ([1](https://github.com/ankitsultana/researcher), [2](https://josejg.com), [3](https://nadia.xyz), [4](www.harinisuresh.com)).
 
-Here's a short list of books I've really enjoyed, loosely organized by topic. For the most up-to-date look at what I'm reading, check [Goodreads](https://www.goodreads.com/user/show/76521824-divya-shanmugam)! Email me with any recs 🎉
+Here's a short list of books I've really enjoyed, organized by topic. For the most up-to-date look at what I'm reading, check [Goodreads](https://www.goodreads.com/user/show/76521824-divya-shanmugam)! Email me with any recs 🎉
 
 ***Computing*** \\
 The Information: A History, A Theory, A Flood, James Gleick \\
