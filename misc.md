@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Completed projects, some related to my research, some not: 
+I love a good side project:
 
 - [End of Signature](https://listart.mit.edu/art-artists/end-signature-2021-2022): A pair of AI-generated art sculptures in Kendall Square.
 - [WhatGisMyBC](https://whatgismybc.pythonanywhere.com): A website to map commercial birth control pill names to common side effects.
