@@ -24,4 +24,4 @@ Garlic and Sapphires: The Secret Life of a Critic in Disguise, Ruth Reichl \\
 Insomniac City: New York, Oliver, and Me, Bill Hayes \\
 Lillian Boxfish Takes a Walk, Kathleen Rooney
 
-Also, this website design is inspired by many others ([1](https://github.com/ankitsultana/researcher), [2](https://josejg.com), [3](https://nadia.xyz), [4](www.harinisuresh.com)).
+Also, this website design is inspired by many others ([1](https://github.com/ankitsultana/researcher), [2](https://josejg.com), [3](https://nadia.xyz), [4](https://harinisuresh.com)).
