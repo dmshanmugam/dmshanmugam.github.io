@@ -3,7 +3,7 @@ layout: default
 ---
 
 - [End of Signature](https://listart.mit.edu/art-artists/end-signature-2021-2022): A pair of AI-generated art sculptures in Kendall Square.
-- [WhatGisMyBC](https://whatgismybc.pythonanywhere.com): A website to map commerical birth control pill names to common side effects.
+- [WhatGisMyBC](https://whatgismybc.pythonanywhere.com): A website to map commercial birth control pill names to common side effects.
 - [Making Mentorship Better](https://makingmentorshipbetter.github.io): A guide to mentoring undergraduate researchers in computer science.
 - [PersonalizedMinis](https://github.com/divyashan/personalized_mini): A tool to generate personalized mini crosswards (a great gift!)
 - [A Message Story](https://github.com/divyashan/a_message_story): A tool to visualize your Facebook message history with someone (also a good gift!)
