@@ -2,7 +2,16 @@
 layout: default
 ---
 
-I like to read books. Below is a selection of books I've really enjoyed, organized by topic. For the most up-to-date look at what I'm reading, check [Goodreads](https://www.goodreads.com/user/show/76521824-divya-shanmugam)! Email me with any recs 🎉
+Completed projects, some related to my research, some not: 
+
+- [End of Signature](https://listart.mit.edu/art-artists/end-signature-2021-2022): A pair of AI-generated art sculptures in Kendall Square.
+- [WhatGisMyBC](https://whatgismybc.pythonanywhere.com): A website to map commercial birth control pill names to common side effects.
+- [Making Mentorship Better](https://makingmentorshipbetter.github.io): A guide to mentoring undergraduate researchers in computer science.
+- [PersonalizedMinis](https://github.com/divyashan/personalized_mini): A tool to generate personalized mini crosswards (a great gift!)
+- [A Message Story](https://github.com/divyashan/a_message_story): A tool to visualize your Facebook message history with someone (also a good gift!)
+
+
+I also like to read books. Below is a selection I've really enjoyed, organized by topic. For the most up-to-date look at what I'm reading, check [Goodreads](https://www.goodreads.com/user/show/76521824-divya-shanmugam)! Email me with any recs 🎉
 
 ***Computing*** \\
 The Information: A History, A Theory, A Flood, James Gleick \\

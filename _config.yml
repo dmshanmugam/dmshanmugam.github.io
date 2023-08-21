@@ -24,8 +24,6 @@ footer_text: "***"
 nav:
  - name: "Research"
    link: "/publications"
- - name: "Projects"
-   link: "/projects"
  - name: "Blog"
    link: "/blog"
  - name: "Misc"
