@@ -99,6 +99,11 @@ body {
     margin-left: 0px;
 }
 
+#navbar-photo {
+    margin-right: 0px;
+    padding: 0px;
+}
+
 .navbar {
     padding: 50px 0 15px 0;
     align-items: center;
@@ -151,13 +156,16 @@ body {
     min-height: 100%;
 }
 
-/* Institute Image */
+.content {
+    padding-bottom: 200px;
+}
 
-#ins-logo {
-	margin: auto;
-	display: block;
-	max-height: 100px;
-	text-align: center;
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f0f0f0; /* Adjust as needed */
+    padding: 100px;
 }
 
 /* Mobile */
@@ -294,6 +302,10 @@ body {
         align-items: center;
     }
 
+    #navbar-photo {
+        margin: auto;
+    }
+
     .navbar-text {
         // width: 100%;
         display: block;
@@ -366,9 +378,6 @@ body {
 		margin: 0;
 	}
 
-    body {
-        padding-bottom: 200px;
-    }
 
     #navbar-text {
         margin: auto;

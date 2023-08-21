@@ -2,9 +2,7 @@
 layout: default
 ---
 
-I like to read books. The website design is inspired by many others ([1](https://github.com/ankitsultana/researcher), [2](https://josejg.com), [3](https://nadia.xyz), [4](www.harinisuresh.com)).
-
-Here's a short list of books I've really enjoyed, organized by topic. For the most up-to-date look at what I'm reading, check [Goodreads](https://www.goodreads.com/user/show/76521824-divya-shanmugam)! Email me with any recs 🎉
+I like to read books. Below is a selection of books I've really enjoyed, organized by topic. For the most up-to-date look at what I'm reading, check [Goodreads](https://www.goodreads.com/user/show/76521824-divya-shanmugam)! Email me with any recs 🎉
 
 ***Computing*** \\
 The Information: A History, A Theory, A Flood, James Gleick \\
@@ -25,3 +23,5 @@ Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonder
 Garlic and Sapphires: The Secret Life of a Critic in Disguise, Ruth Reichl \\
 Insomniac City: New York, Oliver, and Me, Bill Hayes \\
 Lillian Boxfish Takes a Walk, Kathleen Rooney
+
+Also, this website design is inspired by many others ([1](https://github.com/ankitsultana/researcher), [2](https://josejg.com), [3](https://nadia.xyz), [4](www.harinisuresh.com)).

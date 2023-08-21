@@ -51,6 +51,12 @@ A. Raghu, <u>D. Shanmugam</u>, E. Pomerantsev, J. Guttag, C. Stultz \\
 
 ## Workshop Papers
 
+- At the Intersection of Deep Learning and Conceptual Art: The End of Signature
+<u>D. Shanmugam</u>\*, K. Lewis\*, Jose Javier Gonzalez-Ortiz\*, Agnieszka Kurant, John Guttag \\
+*Broadening Research Collaborations Workshop, Neurips 2022* \\
+[[pdf](https://arxiv.org/abs/2207.04312)]
+
+
 - Improved Text Classification via Test-Time Augmentation \\
 H. Lu, <u>D. Shanmugam</u>, H. Suresh, J. Guttag \\
 *UpdatableML Workshop, ICML 2020* \\
@@ -83,11 +89,6 @@ _"Nothing stinks like a pile of unpublished writing"_ - Sylvia Plath, _The Bell 
 - More than One Way to Train a Net: Predicting Ovulation using Multiple Proxies \\
 D. Shanmugam, S. Hill, J. Guttag
 
-
-
-- At the Intersection of Deep Learning and Conceptual Art: The End of Signature
-<u>D. Shanmugam</u>\*, K. Lewis\*, Jose Javier Gonzalez-Ortiz\*, Agnieszka Kurant, John Guttag \\
-[[pdf](https://arxiv.org/abs/2207.04312)]
 
 - When and Why Test-Time Augmentation Works \\
 <u>D. Shanmugam</u>, D. Blalock, G. Balakrishnan, J. Guttag \\
