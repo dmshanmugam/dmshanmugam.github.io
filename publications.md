@@ -13,7 +13,7 @@ D. Shanmugam, H. Lu, S. Swaminarayan, J. Guttag \\
 [[pdf](pdfs/tta_icml_2024.pdf)] (under review)
 
 3. Use large language models to promote equity \\
-E. Pierson\*, D. Shanmugam\*, R. Movva\*, J. Kleinberg\* ... & many others!
+E. Pierson\*, D. Shanmugam\*, R. Movva\*, J. Kleinberg\* ... & many others! \\
 [[pdf](https://arxiv.org/abs/2312.14804)] (under review)
 
 ## Publications
