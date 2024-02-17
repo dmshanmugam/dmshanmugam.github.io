@@ -5,12 +5,16 @@ layout: default
 ## Working Papers
 
 1. Quantifying Inequality in Underreported Medical Conditions \\
-D. Shanmugam, E. Pierson \\
-[[pdf](https://arxiv.org/abs/2110.04133)] 
+D. Shanmugam, K. Hou, E. Pierson \\
+[[pdf](https://arxiv.org/abs/2110.04133)] (under review)
 
-2. Test-time augmentation for conformal prediction \\
+2. Test-time augmentation improves efficiency in conformal prediction \\
 D. Shanmugam, H. Lu, S. Swaminarayan, J. Guttag \\
-(in preparation)
+[[pdf](pdfs/tta_icml_2024.pdf)] (under review)
+
+3. Use large language models to promote equity \\
+E. Pierson\*, D. Shanmugam\*, R. Movva\*, J. Kleinberg\* ... & many others!
+[[pdf](https://arxiv.org/abs/2312.14804)] (under review)
 
 ## Publications
 
@@ -32,7 +36,7 @@ H. Suresh, <u>D. Shanmugam</u>, T. Chen, A. Bryan, A. D'Amour, J. Guttag, A. Sat
 - Learning to Limit Data Collection for Data Minimization via Scaling Laws: A Computational Interpretation for the Legal Principle  of Data Minimization\\
 <u>D. Shanmugam</u>, S. Shabanian, F. Diaz, M. Finck, A. Biega \\
 *Fairness, Accountability and Transparency Conference 2022* \\
-[[pdf](pdfs/facct_2022_lldc.pdf)]
+[[pdf](pdfs/facct_2022_lldc.pdf), [supplement](pdfs/facct_2022_lldc_supp.pdf)]
 
 - Data Augmentation for Electrocardiograms  \\
 A. Raghu, <u>D. Shanmugam</u>, E. Pomerantsev, J. Guttag, C. Stultz \\
@@ -42,7 +46,7 @@ A. Raghu, <u>D. Shanmugam</u>, E. Pomerantsev, J. Guttag, C. Stultz \\
 - Better Aggregation in Test-Time Augmentation \\
 <u>D. Shanmugam</u>, D. Blalock, G. Balakrishnan, J. Guttag \\
 *International Conference on Computer Vision 2021* \\
-[[pdf](pdfs/tta_iccv_2021.pdf), [supplement](pdfs/2021_ICCV_TTA_supplement.pdf), [slides](pdfs/tta_iccv_slides.pdf), [poster](pdfs/tta_iccv_poster.pdf)] **Oral Presentation**
+[[pdf](pdfs/tta_iccv_2021.pdf), [code](https://github.com/divyashan/test-time-augmentation), [supplement](pdfs/2021_ICCV_TTA_supplement.pdf), [slides](pdfs/tta_iccv_slides.pdf), [poster](pdfs/tta_iccv_poster.pdf)] **Oral Presentation**
 
 - Multiple Instance Learning for ECG Risk Stratification \\
 <u>D. Shanmugam</u>, D. Blalock, J. Guttag \\
