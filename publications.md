@@ -21,7 +21,7 @@ E. Pierson\*, D. Shanmugam\*, R. Movva\*, J. Kleinberg\* ... & many others!
 - Coarse race data conceals disparities in clinical risk score performance \\
 R. Movva\*, <u>D. Shanmugam</u>\*, K. Hou, P. Pathak, J. Guttag, N. Garg, E. Pierson \\
 *Machine Learning for Healthcare Conference 2023* \\
-[[pdf](https://arxiv.org/abs/2304.09270)]
+[[pdf](https://arxiv.org/abs/2304.09270), [code](https://github.com/rmovva/granular-race-disparities_mlhc23)]
 
 - A multi-site study of the relationship between photoperiod and ovulation rate using NaturalCycles data \\
 <u>D. Shanmugam</u>, M. Espinosa, J. Gassen, A. van Lamsweerde, JT Pearson, E. Benhar, S. Hill \\
@@ -36,22 +36,23 @@ H. Suresh, <u>D. Shanmugam</u>, T. Chen, A. Bryan, A. D'Amour, J. Guttag, A. Sat
 - Learning to Limit Data Collection for Data Minimization via Scaling Laws: A Computational Interpretation for the Legal Principle  of Data Minimization\\
 <u>D. Shanmugam</u>, S. Shabanian, F. Diaz, M. Finck, A. Biega \\
 *Fairness, Accountability and Transparency Conference 2022* \\
-[[pdf](pdfs/facct_2022_lldc.pdf), [supplement](pdfs/facct_2022_lldc_supp.pdf)]
+[[pdf](pdfs/facct_2022_lldc.pdf), [supp](pdfs/facct_2022_lldc_supp.pdf), [code](https://github.com/divyashan/learning_to_limit)]
 
 - Data Augmentation for Electrocardiograms  \\
 A. Raghu, <u>D. Shanmugam</u>, E. Pomerantsev, J. Guttag, C. Stultz \\
 *Conference on Health, Inference, and Learning 2022* \\
-[[pdf](https://arxiv.org/abs/2204.04360)]
+[[pdf](https://arxiv.org/abs/2204.04360), [code](https://github.com/aniruddhraghu/ecg_aug)]
 
 - Better Aggregation in Test-Time Augmentation \\
 <u>D. Shanmugam</u>, D. Blalock, G. Balakrishnan, J. Guttag \\
 *International Conference on Computer Vision 2021* \\
-[[pdf](pdfs/tta_iccv_2021.pdf), [code](https://github.com/divyashan/test-time-augmentation), [supplement](pdfs/2021_ICCV_TTA_supplement.pdf), [slides](pdfs/tta_iccv_slides.pdf), [poster](pdfs/tta_iccv_poster.pdf)] **Oral Presentation**
+[[pdf](pdfs/tta_iccv_2021.pdf), [supp](pdfs/2021_ICCV_TTA_supplement.pdf), [slides](pdfs/tta_iccv_slides.pdf), [code](https://github.com/divyashan/test-time-augmentation)] **Oral Presentation**
 
 - Multiple Instance Learning for ECG Risk Stratification \\
 <u>D. Shanmugam</u>, D. Blalock, J. Guttag \\
 *Machine Learning in Healthcare Conference 2019* \\
-[[pdf](pdfs/ecg_mlhc_2019.pdf), [slides](pdfs/ecg_mlhc_slides.pdf), [poster](pdfs/ecg_mlhc_poster.pdf)] **Oral Presentation**
+[[pdf](pdfs/ecg_mlhc_2019.pdf), [slides](pdfs/ecg_mlhc_slides.pdf)] **Oral Presentation**
+
 
 ## Workshop Papers
 
@@ -74,12 +75,12 @@ R. Sahoo\*, <u>D. Shanmugam</u>*, J. Guttag \\
 - Automated Image Segmentation of Liver Stage Malaria Infection \\
 AP. Soleimany, H. Suresh, JJG. Ortiz, <u>D. Shanmugam</u>, N. Gural, J. Guttag, SN. Bhatia \\
 *Computational Biology Workshop ICML 2019* \\
-[[pdf](pdfs/icml_workshop_2019.pdf), [poster](pdfs/icml_2019_poster.pdf)]
+[[pdf](pdfs/icml_workshop_2019.pdf)]
 
 - A Convolutional Approach to Multivariate Time Series Comparison \\
 <u>D. Shanmugam</u>, D. Blalock, J. Guttag: Jiffy \\
 *Women in Machine Learning Workshop 2017* \\
-[[pdf](pdfs/jiffy.pdf), [poster](pdfs/jiffy_wiml_poster.pdf)]
+[[pdf](pdfs/jiffy.pdf)]
 
 - Disparities in the performance of Natural Language Processing Tools \\
 H. Suresh, <u>D. Shanmugam</u>\\
