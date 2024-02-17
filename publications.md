@@ -25,7 +25,7 @@ R. Movva\*, <u>D. Shanmugam</u>\*, K. Hou, P. Pathak, J. Guttag, N. Garg, E. Pie
 
 - A multi-site study of the relationship between photoperiod and ovulation rate using NaturalCycles data \\
 <u>D. Shanmugam</u>, M. Espinosa, J. Gassen, A. van Lamsweerde, JT Pearson, E. Benhar, S. Hill \\
-*Nature Scientific Reports* \\
+*Nature Scientific Reports 2023* \\
 [[pdf](https://www.nature.com/articles/s41598-023-34940-z)]
 
 - Kaleidoscope: Semantically-grounded, context-specific ML model evaluation \\
@@ -56,7 +56,7 @@ A. Raghu, <u>D. Shanmugam</u>, E. Pomerantsev, J. Guttag, C. Stultz \\
 
 ## Workshop Papers
 
-- At the Intersection of Deep Learning and Conceptual Art: The End of Signature
+- At the Intersection of Deep Learning and Conceptual Art: The End of Signature \\
 <u>D. Shanmugam</u>\*, K. Lewis\*, Jose Javier Gonzalez-Ortiz\*, Agnieszka Kurant, John Guttag \\
 *Broadening Research Collaborations Workshop, Neurips 2022* \\
 [[pdf](https://arxiv.org/abs/2207.04312)]
@@ -68,7 +68,7 @@ H. Lu, <u>D. Shanmugam</u>, H. Suresh, J. Guttag \\
 [[pdf](https://arxiv.org/abs/2206.13607)]
 
 - Unsupervised Domain Adaptation in the Absence of Source Data \\
-R. Sahoo\*, <u>D. Shanmugam</u>*, J. Guttag \\
+R. Sahoo\*, <u>D. Shanmugam</u>\*, J. Guttag \\
 *Uncertainty & Robustness in Deep Learning Workshop, ICML 2020* \\
 [[pdf](pdfs/udl_icml_2020.pdf)]
 
