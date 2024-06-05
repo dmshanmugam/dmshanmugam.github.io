@@ -4,19 +4,20 @@ layout: default
 
 ## Working Papers
 
-1. Quantifying Inequality in Underreported Medical Conditions \\
-D. Shanmugam, K. Hou, E. Pierson \\
-[[pdf](https://arxiv.org/abs/2110.04133)] (under review)
-
-2. Test-time augmentation improves efficiency in conformal prediction \\
+1. Test-time augmentation improves efficiency in conformal prediction \\
 D. Shanmugam, H. Lu, S. Swaminarayan, J. Guttag \\
 [[pdf](pdfs/tta_icml_2024.pdf)] (under review)
 
-3. Use large language models to promote equity \\
+2. Use large language models to promote equity \\
 E. Pierson\*, D. Shanmugam\*, R. Movva\*, J. Kleinberg\* ... & many others! \\
 [[pdf](https://arxiv.org/abs/2312.14804)] (under review)
 
-## Publications
+## Selected Publications
+
+- Quantifying Inequality in Underreported Medical Conditions \\
+D. Shanmugam, K. Hou, E. Pierson \\
+*npj Women's Health 2024* \\
+[[pdf](https://arxiv.org/abs/2110.04133)] [code](https://github.com/epierson9/invisible-conditions)]
 
 - Coarse race data conceals disparities in clinical risk score performance \\
 R. Movva\*, <u>D. Shanmugam</u>\*, K. Hou, P. Pathak, J. Guttag, N. Garg, E. Pierson \\
@@ -58,9 +59,8 @@ A. Raghu, <u>D. Shanmugam</u>, E. Pomerantsev, J. Guttag, C. Stultz \\
 
 - At the Intersection of Deep Learning and Conceptual Art: The End of Signature \\
 <u>D. Shanmugam</u>\*, K. Lewis\*, Jose Javier Gonzalez-Ortiz\*, Agnieszka Kurant, John Guttag \\
-*Broadening Research Collaborations Workshop, Neurips 2022* \\
+*Broadening Research Collaborations Workshop, NeurIPS 2022* \\
 [[pdf](https://arxiv.org/abs/2207.04312)]
-
 
 - Improved Text Classification via Test-Time Augmentation \\
 H. Lu, <u>D. Shanmugam</u>, H. Suresh, J. Guttag \\
