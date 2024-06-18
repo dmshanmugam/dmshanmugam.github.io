@@ -1,6 +1,6 @@
 ---
 layout: default
----
+--- 
 
 I am a machine learning researcher interested in the intersection of machine learning, healthcare, and equity. I recently received my PhD from MIT, where I was fortunate to be advised by John Guttag as a member of the [Clinical and Applied Machine Learning Group](https://mit-caml.github.io). I work on developing techniques to **understand and update models in the presence of unreliable data**. This work has taken many forms and includes:
 1. A method to measure health disparities for underreported outcomes.
