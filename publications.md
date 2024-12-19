@@ -18,57 +18,53 @@ E. Chiang, <u>D. Shanmugam</u>, A. Beecy, G. Sayer, N. Uriel, D. Estrin, N. Garg
 
 ## Selected Publications
 
-- Generative Artificial Intelligence in Medicine \\
+- [Generative Artificial Intelligence in Medicine](https://arxiv.org/abs/2412.10337) \\
 <u>D. Shanmugam</u>, M. Agrawal, R. Movva, I.Y. Chen, M. Ghassemi, M. Jacobs, E. Pierson \\
-*Annual Review of Biomedical Data Science* \\
-[[pdf](https://arxiv.org/abs/2412.10337)]
+*Annual Review of Biomedical Data Science*. 
 
-- Use large language models to promote health equity \\
+- [Use large language models to promote health equity](https://arxiv.org/abs/2312.14804) \\
 E. Pierson\*, <u>D. Shanmugam</u>\*, R. Movva\*, J. Kleinberg\* ... & many others! \\
-*NEJM AI 2025* \\
-[[pdf](https://arxiv.org/abs/2312.14804)] 
+*NEJM AI 2025*. 
 
-- Quantifying Inequality in Underreported Medical Conditions \\
+- [Quantifying Inequality in Underreported Medical Conditions](https://arxiv.org/abs/2110.04133) \\
 <u>D. Shanmugam</u>, K. Hou, E. Pierson \\
-*npj Women's Health 2024* \\
-[[pdf](https://arxiv.org/abs/2110.04133), [code](https://github.com/epierson9/invisible-conditions)]
+*npj Women's Health 2024*. 
+([code](https://github.com/epierson9/invisible-conditions))
 
-- Coarse race data conceals disparities in clinical risk score performance \\
+- [Coarse race data conceals disparities in clinical risk score performance](https://arxiv.org/abs/2304.09270) \\
 R. Movva\*, <u>D. Shanmugam</u>\*, K. Hou, P. Pathak, J. Guttag, N. Garg, E. Pierson \\
-*Machine Learning for Healthcare Conference 2023* \\
-[[pdf](https://arxiv.org/abs/2304.09270), [code](https://github.com/rmovva/granular-race-disparities_mlhc23)]
+*Machine Learning for Healthcare Conference 2023* 
+([code](https://github.com/rmovva/granular-race-disparities_mlhc23))
 
-- A multi-site study of the relationship between photoperiod and ovulation rate using NaturalCycles data \\
+- [A multi-site study of the relationship between photoperiod and ovulation rate using NaturalCycles data](https://www.nature.com/articles/s41598-023-34940-z) \\
 <u>D. Shanmugam</u>, M. Espinosa, J. Gassen, A. van Lamsweerde, JT Pearson, E. Benhar, S. Hill \\
-*Nature Scientific Reports 2023* \\
-[[pdf](https://www.nature.com/articles/s41598-023-34940-z)]
+*Nature Scientific Reports 2023*. 
 
-- Kaleidoscope: Semantically-grounded, context-specific ML model evaluation \\
+- [Kaleidoscope: Semantically-grounded, context-specific ML model evaluation](https://doi.org/10.1145/3544548.3581482) \\
 H. Suresh, <u>D. Shanmugam</u>, T. Chen, A. Bryan, A. D'Amour, J. Guttag, A. Satyanarayan \\
-*Conference on Human Factors in Computing Systems 2023* \\
-[[pdf](https://doi.org/10.1145/3544548.3581482)]
+*Conference on Human Factors in Computing Systems 2023*.  
 
-- Learning to Limit Data Collection for Data Minimization via Scaling Laws: A Computational Interpretation for the Legal Principle  of Data Minimization\\
+- [Learning to Limit Data Collection for Data Minimization via Scaling Laws: A Computational Interpretation for the Legal Principle  of Data Minimization](pdfs/facct_2022_lldc.pdf)\\
 <u>D. Shanmugam</u>, S. Shabanian, F. Diaz, M. Finck, A. Biega \\
-*Fairness, Accountability and Transparency Conference 2022* \\
-[[pdf](pdfs/facct_2022_lldc.pdf), [supp](pdfs/facct_2022_lldc_supp.pdf), [code](https://github.com/divyashan/learning_to_limit)]
+*Fairness, Accountability and Transparency Conference 2022*. ([supp](pdfs/facct_2022_lldc_supp.pdf), [code](https://github.com/divyashan/learning_to_limit))
 
-- Data Augmentation for Electrocardiograms  \\
+- [Data Augmentation for Electrocardiograms](https://arxiv.org/abs/2204.04360)  \\
 A. Raghu, <u>D. Shanmugam</u>, E. Pomerantsev, J. Guttag, C. Stultz \\
-*Conference on Health, Inference, and Learning 2022* \\
-[[pdf](https://arxiv.org/abs/2204.04360), [code](https://github.com/aniruddhraghu/ecg_aug)]
+*Conference on Health, Inference, and Learning 2022*. 
+([code](https://github.com/aniruddhraghu/ecg_aug))
 
-- Better Aggregation in Test-Time Augmentation \\
+- [Better Aggregation in Test-Time Augmentation](https://arxiv.org/abs/2011.11156) \\
 <u>D. Shanmugam</u>, D. Blalock, G. Balakrishnan, J. Guttag \\
-*International Conference on Computer Vision 2021* \\
-[[pdf](pdfs/tta_iccv_2021.pdf), [supp](pdfs/2021_ICCV_TTA_supplement.pdf), [slides](pdfs/tta_iccv_slides.pdf), [code](https://github.com/divyashan/test-time-augmentation)] **Oral Presentation**
+*International Conference on Computer Vision 2021*.  
+([supp](pdfs/2021_ICCV_TTA_supplement.pdf), [slides](pdfs/tta_iccv_slides.pdf), [code](https://github.com/divyashan/test-time-augmentation)) **Oral Presentation**
 
-- Multiple Instance Learning for ECG Risk Stratification \\
+
+- [Multiple Instance Learning for ECG Risk Stratification](pdfs/ecg_mlhc_2019.pdf)\\
 <u>D. Shanmugam</u>, D. Blalock, J. Guttag \\
-*Machine Learning in Healthcare Conference 2019* \\
-[[pdf](pdfs/ecg_mlhc_2019.pdf), [slides](pdfs/ecg_mlhc_slides.pdf)] **Oral Presentation**
+*Machine Learning in Healthcare Conference 2019*.  
+([slides](pdfs/ecg_mlhc_slides.pdf)) **Oral Presentation**
 
-
+<!-- 
 ## Workshop Papers
 
 - At the Intersection of Deep Learning and Conceptual Art: The End of Signature \\
@@ -99,7 +95,7 @@ AP. Soleimany, H. Suresh, JJG. Ortiz, <u>D. Shanmugam</u>, N. Gural, J. Guttag, 
 - Disparities in the performance of Natural Language Processing Tools \\
 H. Suresh, <u>D. Shanmugam</u>\\
 *Women in Machine Learning Workshop 2017* \\
-[[poster](pdfs/wimlposter_2017.pdf)]
+[[poster](pdfs/wimlposter_2017.pdf)] -->
 
 ## Preprints 
 
@@ -113,7 +109,7 @@ D. Shanmugam, S. Hill, J. Guttag
 <u>D. Shanmugam</u>, D. Blalock, G. Balakrishnan, J. Guttag \\
 [[pdf](pdfs/when_and_why.pdf)] 
 
-
+<!-- 
 - Addressing Feature-Dependent Label Noise: A Generative Framework \\
 J. Sahota, <u>D. Shanmugam</u> J. Ramanan, S. Eghbali, M. Brubaker \\
-[[pdf](pdfs/KDD_2019_label_noise_correction.pdf)]
+[[pdf](pdfs/KDD_2019_label_noise_correction.pdf)] -->

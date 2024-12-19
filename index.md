@@ -9,7 +9,7 @@ I work on machine learning for healthcare. My current research (often) falls int
 
 <div style="background-color: #FFEDE0; padding: 0.75em; border-radius: 5px; border: #FFB085; margin-bottom: 0.5em; margin-top: 0em;">
 
-<span style="color: #CB4B16;"> <b> Measuring human behavior in health datasets: </b> </span> <br>
+<span style="color: #CB4B16;"> <b> Measuring human behavior in health datasets </b> </span> <br>
 I believe that we can improve healthcare not just by training better predictive models, but also by building better *descriptive* models of how care is currently delivered.
 <!-- To what extent are diseases under-diagnosed? 
 How do financial incentives shape treatment decisions? These are questions that machine learning methods I develop, in combination with large health datasets, can answer.  -->
@@ -30,7 +30,7 @@ I like thinking about how we can develop machine learning methods to measure pro
 
 <div style="background-color: #FFEDE0; padding: 0.75em; border-radius: 5px; border: #FFB085; margin-bottom: 0.5em; margin-top: 0em;">
 
- <span style="color: #CB4B16;"> <b> Updating and evaluating machine learning models: </b> </span>  <br>
+ <span style="color: #CB4B16;"> <b> Updating and evaluating machine learning models </b> </span>  <br>
 
 <!-- I am interested in issues that arise *after* training a model.  -->
 While we are great at training models, there is room to improve the ways we update, evaluate, and select models. 
@@ -44,7 +44,7 @@ While we are great at training models, there is room to improve the ways we upda
 </div>
 
 <div style="background-color: #FFEDE0; padding: 0.75em; border-radius: 5px; border: #FFB085; margin-bottom: 0.5em; margin-top: 0em;">
- <span style="color: #CB4B16;"> <b> Promoting health equity: </b> </span>  <br>
+ <span style="color: #CB4B16;"> <b> Promoting health equity </b> </span>  <br>
 
 Can we use AI to characterize and mitigate persistent health inequalities? I (and many of my co-authors) would <a url="https://arxiv.org/abs/2312.14804"> say yes</a>! 
 I am especially committed to translating advances in machine learning to women's health. 
@@ -57,7 +57,7 @@ including the scarcity of ground truth labels, and the role of predictive models
 > What new opportunities in health equity do large language models enable? (NEJM AI 2025)
 </ul>
 </div>
-Sometimes I describe my interests as "everything but model training". This is partially because I am impatient, but it is <ins>also</ins> because I believe the road from messy to clean data and the road from trained model to deployment raise important unanswered questions. 
+Sometimes I describe my interests as "everything but model training". This is because 1. I am impatient and 2. I believe the road from messy to clean data and the road from trained model to deployment raise important unanswered questions.
 
 <!-- If you are a student interested in collaborating on these topics, do reach out! -->
 
