@@ -33,7 +33,7 @@ I like thinking about how we can develop machine learning methods to measure pro
  <span style="color: #CB4B16;"> <b> Updating and evaluating machine learning models </b> </span>  <br>
 
 <!-- I am interested in issues that arise *after* training a model.  -->
-While we are great at training models, there is room to improve the ways we update, evaluate, and select models. 
+There is substantial room to improve the ways we update, evaluate, and select machine learning models. 
 <!-- I work on new methods to update models using test-time augmentation, and new methods to evaluate machine learning models under domain-specific constraints. -->
 
 <ul>
