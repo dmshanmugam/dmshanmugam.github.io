@@ -4,20 +4,34 @@ layout: default
 
 ## Working Papers
 
-1. Test-time augmentation improves efficiency in conformal prediction \\
-D. Shanmugam, H. Lu, S. Swaminarayan, J. Guttag \\
-[[pdf](pdfs/tta_icml_2024.pdf)] (under review)
+1. Evaluating multiple models using labeled and unlabeled data \\
+<u>D. Shanmugam</u>\*, S. Sadhuka\*, M. Raghavan, J. Guttag, B. Berger\*\*, E. Pierson\*\* \\
+(under review)
 
-2. Use large language models to promote equity \\
-E. Pierson\*, D. Shanmugam\*, R. Movva\*, J. Kleinberg\* ... & many others! \\
-[[pdf](https://arxiv.org/abs/2312.14804)] (under review)
+2. Learning disease progression models that capture health disparities \\
+E. Chiang, <u>D. Shanmugam</u>, A. Beecy, G. Sayer, N. Uriel, D. Estrin, N. Garg, E. Pierson\\
+[[pdf](https://erica-chiang.github.io/assets/files/Progression_Project_Draft.pdf)] (in preparation)
+
+3. Test-time augmentation improves efficiency in conformal prediction \\
+<u>D. Shanmugam</u>, H. Lu, S. Swaminarayan, J. Guttag \\
+[[pdf](pdfs/tta_icml_2024.pdf)] (under review)
 
 ## Selected Publications
 
+- Generative Artificial Intelligence in Medicine \\
+<u>D. Shanmugam</u>, M. Agrawal, R. Movva, I.Y. Chen, M. Ghassemi, M. Jacobs, E. Pierson \\
+*Annual Review of Biomedical Data Science* \\
+[[pdf](https://arxiv.org/abs/2412.10337)]
+
+- Use large language models to promote health equity \\
+E. Pierson\*, <u>D. Shanmugam</u>\*, R. Movva\*, J. Kleinberg\* ... & many others! \\
+*NEJM AI 2025* \\
+[[pdf](https://arxiv.org/abs/2312.14804)] 
+
 - Quantifying Inequality in Underreported Medical Conditions \\
-D. Shanmugam, K. Hou, E. Pierson \\
+<u>D. Shanmugam</u>, K. Hou, E. Pierson \\
 *npj Women's Health 2024* \\
-[[pdf](https://arxiv.org/abs/2110.04133)] [code](https://github.com/epierson9/invisible-conditions)]
+[[pdf](https://arxiv.org/abs/2110.04133), [code](https://github.com/epierson9/invisible-conditions)]
 
 - Coarse race data conceals disparities in clinical risk score performance \\
 R. Movva\*, <u>D. Shanmugam</u>\*, K. Hou, P. Pathak, J. Guttag, N. Garg, E. Pierson \\

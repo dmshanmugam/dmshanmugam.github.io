@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: [divyas (at) mit (dot) edu](mailto:divyas@mit.edu)
+* Email: [divyas (at) cornell (dot) edu](mailto:divyas@cornell.edu)
 
 
 ## Social
