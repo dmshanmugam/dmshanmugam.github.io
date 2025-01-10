@@ -2,14 +2,14 @@
 layout: default
 --- 
 
-Hi! I am a postdoc at Cornell, working with Emma Pierson. I completed my Ph.D. in the [Clinical and Applied Machine Learning](https://caml.csail.mit.edu/) group at MIT, where I was lucky to be advised by John Guttag. 
+Hi! I am a postdoc at Cornell, working with Emma Pierson. I also work closely with Jenna Wiens as a visiting postdoctoral associate. I completed my Ph.D. in the [Clinical and Applied Machine Learning](https://caml.csail.mit.edu/) group at MIT, where I was lucky to be advised by John Guttag. 
 Before, I was at MIT for undergrad, where I majored in computer science with a concentration in South Asian studies. 
 
 I work on machine learning for healthcare. My current research (often) falls into one or more of these categories:
 
 <div style="background-color: #FFEDE0; padding: 0.75em; border-radius: 5px; border: #FFB085; margin-bottom: 0.5em; margin-top: 0em;">
 
-<span style="color: #CB4B16;"> <b> Measuring human behavior in health datasets </b> </span> <br>
+<span style="color: #CB4B16;"> <b> Methods to measure human behavior in health datasets </b> </span> <br>
 I believe that we can improve healthcare not just by training better predictive models, but also by building better *descriptive* models of how care is currently delivered.
 <!-- To what extent are diseases under-diagnosed? 
 How do financial incentives shape treatment decisions? These are questions that machine learning methods I develop, in combination with large health datasets, can answer.  -->
@@ -20,21 +20,12 @@ How do financial incentives shape treatment decisions? These are questions that 
 > How can we measure overtreatment? (in progress)
 </ul>
 </div>
-<!-- Datasets used in machine learning for healthcare are shaped by a complex system of human interaction and financial incentives.
-I like thinking about how we can develop machine learning methods to measure processes that shape observable data, in order to:
-(1) better understand the ways in which observable data differs from the data we wish to observe and 
-(2) reason about the behavior of machine learning models trained on this data. -->
-
-<!-- I've thought about this in the context of *underdiagnosis* (of intimate partner violence (NWH 2024), and in ongoing work, genetic disease and cardiovascular outcomes),
-*patterns of health access* (heart failure), and most recently, *overtreatment*. -->
 
 <div style="background-color: #FFEDE0; padding: 0.75em; border-radius: 5px; border: #FFB085; margin-bottom: 0.5em; margin-top: 0em;">
 
- <span style="color: #CB4B16;"> <b> Updating and evaluating machine learning models </b> </span>  <br>
+ <span style="color: #CB4B16;"> <b> Methods to update and evaluate machine learning models </b> </span>  <br>
 
-<!-- I am interested in issues that arise *after* training a model.  -->
 There is substantial room to improve the ways we update, evaluate, and select machine learning models. 
-<!-- I work on new methods to update models using test-time augmentation, and new methods to evaluate machine learning models under domain-specific constraints. -->
 
 <ul>
 > How can we efficiently update models to be more accurate, robust, and calibrated? (ICCV 2021, under review) <br>
@@ -44,16 +35,17 @@ There is substantial room to improve the ways we update, evaluate, and select ma
 </div>
 
 <div style="background-color: #FFEDE0; padding: 0.75em; border-radius: 5px; border: #FFB085; margin-bottom: 0.5em; margin-top: 0em;">
- <span style="color: #CB4B16;"> <b> Promoting health equity </b> </span>  <br>
+ <span style="color: #CB4B16;"> <b> Health equity </b> </span>  <br>
 
-Can we use AI to characterize and mitigate persistent health inequalities? I (and many of my co-authors) would <a url="https://arxiv.org/abs/2312.14804"> say yes</a>! 
+Can we use AI to characterize and mitigate persistent health inequities? I (and many of my co-authors) would <a url="https://arxiv.org/abs/2312.14804"> say yes</a>! 
 I am especially committed to translating advances in machine learning to women's health. 
 
 <!-- A number of open technical questions here motivate my current work,
 including the scarcity of ground truth labels, and the role of predictive models in case management, particularly in the context of intimate partner violence and fertility. -->
 <ul>
-> How can we better measure the prevalence of intimate partner violence? (NWH 2024) <br>
+> What disparities might we miss without access to granular race data? (MLHC 2023) <br>
 > What features are important when predicting ovulation? (SR 2023) <br>
+> How can we better measure the prevalence of intimate partner violence? (NWH 2024) <br>
 > What new opportunities in health equity do large language models enable? (NEJM AI 2025)
 </ul>
 </div>
