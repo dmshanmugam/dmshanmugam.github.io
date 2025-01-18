@@ -2,7 +2,7 @@
 layout: default
 --- 
 
-Hi! I am a postdoc at Cornell, working with Emma Pierson. I also work closely with Jenna Wiens as a visiting postdoctoral associate. I completed my Ph.D. in the [Clinical and Applied Machine Learning](https://caml.csail.mit.edu/) group at MIT, where I was lucky to be advised by John Guttag. 
+Hi! I am a postdoc at Cornell, working with Emma Pierson and Jenna Wiens. I completed my Ph.D. in the [Clinical and Applied Machine Learning](https://caml.csail.mit.edu/) group at MIT, where I was lucky to be advised by John Guttag. 
 Before, I was at MIT for undergrad, where I majored in computer science with a concentration in South Asian studies. 
 
 I work on machine learning for healthcare. My current research (often) falls into one or more of these categories:
