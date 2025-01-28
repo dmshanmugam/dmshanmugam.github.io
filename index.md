@@ -8,33 +8,31 @@ I work on machine learning for healthcare. My current research (often) falls int
 
 <div style="background-color: #FFEDE0; padding: 0.75em; border-radius: 5px; border: #FFB085; margin-bottom: 0.5em; margin-top: 0em;">
 
-<span style="color: #CB4B16;"> <b> Methods to measure human behavior in health datasets </b> </span> <br>
-I believe that we can improve healthcare not just by training better predictive models, but also by building better *descriptive* models of how care is currently delivered.
-<!-- To what extent are diseases under-diagnosed? 
-How do financial incentives shape treatment decisions? These are questions that machine learning methods I develop, in combination with large health datasets, can answer.  -->
+<span style="color: #B84A13;"> <b> Measuring human behavior in health datasets </b> </span> <br>
+We are very good at building predictive models healthcare; how can they help us build better *descriptive* models of how care is currently delivered? 
 
 <ul>
 > How can we measure the extent to which diseases are underdiagnosed in different patient subgroups? (NWH 2024) <br>
 > How can we measure different patterns of health access? (under review) <br>
-> How can we measure overtreatment? (in progress)
+> How can do financial incentives shape treatment decisions? (in progress)
 </ul>
 </div>
 
 <div style="background-color: #FFEDE0; padding: 0.75em; border-radius: 5px; border: #FFB085; margin-bottom: 0.5em; margin-top: 0em;">
 
- <span style="color: #CB4B16;"> <b> Methods to update and evaluate machine learning models </b> </span>  <br>
+ <span style="color: #B84A13;"> <b> Learning in the absence of large, labeled datasets </b> </span>  <br>
 
-There is substantial room to improve the ways we update, evaluate, and select machine learning models. 
+Current approaches to updating, evaluating, and selecting models rely on a scarce resource: labeled data. How can we use alternate sources of supervision to reduce our reliance on large, labeled datasets in post-training decision making?
 
 <ul>
-> How can we efficiently update models to be more accurate, robust, and calibrated? (ICCV 2021, under review) <br>
-> How can we facilitate semantically-grounded, context-specific evaluation? (CHI 23) <br>
-> How can we best evaluate classifiers in the absence of abundant labeled data? (under review)
+> How can we use label-preserving transformations to update models to be more accurate and robust? (ICCV 2021) <br>
+> How can we use user-specified criteria to facilitate semantically-grounded, context-specific evaluation? (CHI 23) <br>
+> How can we use unlabeled data to evaluate classifiers? (under review)
 </ul>
 </div>
 
 <div style="background-color: #FFEDE0; padding: 0.75em; border-radius: 5px; border: #FFB085; margin-bottom: 0.5em; margin-top: 0em;">
- <span style="color: #CB4B16;"> <b> Health equity </b> </span>  <br>
+ <span style="color: #B84A13;"> <b> Health equity </b> </span>  <br>
 
 Can we use AI to characterize and mitigate persistent health inequities? I (and many of my co-authors) would <a url="https://arxiv.org/abs/2312.14804"> say yes</a>! 
 I am especially committed to translating advances in machine learning to women's health. 
@@ -43,40 +41,10 @@ I am especially committed to translating advances in machine learning to women's
 including the scarcity of ground truth labels, and the role of predictive models in case management, particularly in the context of intimate partner violence and fertility. -->
 <ul>
 > What disparities might we miss without access to granular race data? (MLHC 2023) <br>
-> What features are important when predicting ovulation? (SR 2023) <br>
+> What features are important when modeling fertility? (SR 2023) <br>
 > How can we better measure the prevalence of intimate partner violence? (NWH 2024) <br>
 > What new opportunities in health equity do large language models enable? (NEJM AI 2025)
 </ul>
 </div>
-Sometimes I describe my interests as "everything but model training". This is because 1. I am impatient and 2. I believe the road from messy to clean data and the road from trained model to deployment raise important unanswered questions.
 
-<!-- If you are a student interested in collaborating on these topics, do reach out! -->
-
-<!-- Future:
-    EHR underdiagnosis, genetic underdiagnosis
-    -->
-
-<!-- Future:
-    Birth Control Switches
-    Birth prediction -->
-<!-- There is increased interest in reducing, reusing, and recycling machine learning models, particularly in downstream applications.  -->
-
-<!-- I also use the intersection of machine learning and healthcare as a "model organism" for the interface between practitioners and machine learning researchers.  -->
-<!-- There are fundamental questions about updating and evaluating models that challenge us today. -->
-
-
-<!-- (1) Building better *descriptive* models of how care is delivered today. To what extent are diseases under-diagnosed? 
-How do financial incentives shape treatment decisions? These are questions that machine learning methods I develop, in combination with large health datasets, can answer.
-
-(2) Building better methods to update and evaluate machine learning models for context-specific tasks. 
-
-(3) Using machine learning to *promote* health equity.  -->
-
-
-<!-- - How can we use test-time augmentation to update a model to be more accurate? (ICCV 2021,  ICML UDL Workshop 2023)
-- How can we use test-time augmentation to be more robust to out-of-distribution examples? (ICML UDL Workshop 2022)
-- How do we update a model to produce more reliable uncertainty estimates? (under review) -->
-
-<!-- - What are the risks of using coarse race data to evaluate clinical risk scores? (MLHC 23)
-- How can we facilitate semantically-grounded, context-specific evaluation (CHI 23)
-- How can we best evaluate classifiers in the absence of abundant labeled data? (under review) -->
+Sometimes I describe my interests as "everything but model training". This is because 1. I am impatient and 2. I believe there's a lot to gain by studying data curation and deployment.
