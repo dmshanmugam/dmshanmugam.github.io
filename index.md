@@ -22,7 +22,7 @@ Human behavior shapes the health data we use to train machine learning systems; 
 
  <span style="color: #B84A13;"> <b> Learning in the absence of large, labeled datasets </b> </span>  <br>
 
-Current approaches to updating, evaluating, and selecting models rely on a scarce resource: labeled data. How can we use alternate sources of supervision to reduce our reliance on large, labeled datasets in post-training decision making?
+Current approaches to updating, evaluating, and selecting models rely on a scarce resource: labeled data. How can we use alternate sources of supervision as a supplement to labeled data in post-training decision making?
 
 <ul>
 > How can we use label-preserving transformations to update models to be more accurate and robust? (ICCV 2021) <br>
