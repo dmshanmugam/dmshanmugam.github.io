@@ -9,7 +9,7 @@ I work on machine learning for healthcare. My current research (often) falls int
 <div style="background-color: #FFEDE0; padding: 0.75em; border-radius: 5px; border: #FFB085; margin-bottom: 0.5em; margin-top: 0em;">
 
 <span style="color: #B84A13;"> <b> Measuring human behavior in health datasets </b> </span> <br>
-We are very good at building predictive models healthcare; how can they help us build better *descriptive* models of how care is currently delivered? 
+Human behavior shapes the health data we use to train machine learning systems; how can we use machine learning to measure these effects? What can these models tell us about how care is currently delivered? 
 
 <ul>
 > How can we measure the extent to which diseases are underdiagnosed in different patient subgroups? (NWH 2024) <br>
