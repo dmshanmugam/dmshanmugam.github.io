@@ -12,7 +12,7 @@ I work on machine learning for healthcare. My current research (often) falls int
 Human behavior shapes the health data we use to train machine learning systems; how can we use machine learning to measure these effects? What can these models tell us about how care is currently delivered? 
 
 <ul>
-> How can we measure the extent to which diseases are underdiagnosed in different patient subgroups? (NWH 2024) <br>
+> How can we measure rates of underdiagnosis in different patient subgroups? (NWH 2024) <br>
 > How can we measure different patterns of health access? (under review) <br>
 > How can do financial incentives shape treatment decisions? (in progress)
 </ul>
@@ -26,7 +26,7 @@ Current approaches to updating, evaluating, and selecting models rely on a scarc
 
 <ul>
 > How can we use label-preserving transformations to update models to be more accurate and robust? (ICCV 2021) <br>
-> How can we use user-specified criteria to facilitate semantically-grounded, context-specific evaluation? (CHI 23) <br>
+> How can we incorporate user-specified criteria into semantically-grounded, context-specific evaluation? (CHI 23) <br>
 > How can we use unlabeled data to evaluate classifiers? (under review)
 </ul>
 </div>
