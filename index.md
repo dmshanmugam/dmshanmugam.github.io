@@ -3,6 +3,7 @@ layout: default
 --- 
 
 Hi! I am a postdoc at Cornell, working with Emma Pierson and Jenna Wiens. I completed my Ph.D. in the [Clinical and Applied Machine Learning](https://caml.csail.mit.edu/) group at MIT, where I was lucky to be advised by John Guttag. 
+
 Before, I was at MIT for undergrad, where I majored in computer science with a concentration in South Asian studies. 
 
 I work on machine learning for healthcare. My current research (often) falls into one or more of these categories:
@@ -51,33 +52,3 @@ including the scarcity of ground truth labels, and the role of predictive models
 </div>
 Sometimes I describe my interests as "everything but model training". This is because 1. I am impatient and 2. I believe the road from messy to clean data and the road from trained model to deployment raise important unanswered questions.
 
-<!-- If you are a student interested in collaborating on these topics, do reach out! -->
-
-<!-- Future:
-    EHR underdiagnosis, genetic underdiagnosis
-    -->
-
-<!-- Future:
-    Birth Control Switches
-    Birth prediction -->
-<!-- There is increased interest in reducing, reusing, and recycling machine learning models, particularly in downstream applications.  -->
-
-<!-- I also use the intersection of machine learning and healthcare as a "model organism" for the interface between practitioners and machine learning researchers.  -->
-<!-- There are fundamental questions about updating and evaluating models that challenge us today. -->
-
-
-<!-- (1) Building better *descriptive* models of how care is delivered today. To what extent are diseases under-diagnosed? 
-How do financial incentives shape treatment decisions? These are questions that machine learning methods I develop, in combination with large health datasets, can answer.
-
-(2) Building better methods to update and evaluate machine learning models for context-specific tasks. 
-
-(3) Using machine learning to *promote* health equity.  -->
-
-
-<!-- - How can we use test-time augmentation to update a model to be more accurate? (ICCV 2021,  ICML UDL Workshop 2023)
-- How can we use test-time augmentation to be more robust to out-of-distribution examples? (ICML UDL Workshop 2022)
-- How do we update a model to produce more reliable uncertainty estimates? (under review) -->
-
-<!-- - What are the risks of using coarse race data to evaluate clinical risk scores? (MLHC 23)
-- How can we facilitate semantically-grounded, context-specific evaluation (CHI 23)
-- How can we best evaluate classifiers in the absence of abundant labeled data? (under review) -->
