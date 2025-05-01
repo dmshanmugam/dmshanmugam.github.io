@@ -8,19 +8,19 @@ layout: default
 <u>D. Shanmugam</u>\*, S. Sadhuka\*, M. Raghavan, J. Guttag, B. Berger\*\*, E. Pierson\*\* \\
 (under review)
 
-2. Learning disease progression models that capture health disparities \\
-E. Chiang, <u>D. Shanmugam</u>, A. Beecy, G. Sayer, N. Uriel, D. Estrin, N. Garg, E. Pierson\\
-[[pdf](https://erica-chiang.github.io/assets/files/Progression_Project_Draft.pdf)] (in preparation)
-
-3. Test-time augmentation improves efficiency in conformal prediction \\
-<u>D. Shanmugam</u>, H. Lu, S. Swaminarayan, J. Guttag \\
-[[pdf](pdfs/tta_icml_2024.pdf)] (under review)
+2. Machine learning reveals hidden diagnoses among underserved patients \\
+(in preparation)
 
 ## Selected Publications
 
-- [Generative Artificial Intelligence in Medicine](https://arxiv.org/abs/2412.10337) \\
-<u>D. Shanmugam</u>, M. Agrawal, R. Movva, I.Y. Chen, M. Ghassemi, M. Jacobs, E. Pierson \\
-*Annual Review of Biomedical Data Science*. 
+- [Learning disease progression models that capture health disparities](https://www.arxiv.org/abs/2412.16406) \\
+E. Chiang, <u>D. Shanmugam</u>, A. Beecy, G. Sayer, N. Uriel, D. Estrin, N. Garg, E. Pierson\\
+ *CHIL 2025* \\
+
+- [Test-time augmentation improves efficiency in conformal prediction](pdfs/CVPR_2025_TTA_CP.pdf) \\
+<u>D. Shanmugam</u>, H. Lu, S. Swaminarayan, J. Guttag \\
+*CVPR 2025*
+
 
 - [Use large language models to promote health equity](https://arxiv.org/abs/2312.14804) \\
 E. Pierson\*, <u>D. Shanmugam</u>\*, R. Movva\*, J. Kleinberg\* ... & many others! \\
@@ -28,7 +28,7 @@ E. Pierson\*, <u>D. Shanmugam</u>\*, R. Movva\*, J. Kleinberg\* ... & many other
 
 - [Quantifying Inequality in Underreported Medical Conditions](https://arxiv.org/abs/2110.04133) \\
 <u>D. Shanmugam</u>, K. Hou, E. Pierson \\
-*npj Women's Health 2024*. 
+*npj Women's Health 2024*. \\
 ([code](https://github.com/epierson9/invisible-conditions))
 
 - [Coarse race data conceals disparities in clinical risk score performance](https://arxiv.org/abs/2304.09270) \\
