@@ -22,7 +22,7 @@ footer_url: ""
 footer_text: "***"
 
 nav:
- - name: "Research"
+ - name: "Publications"
    link: "/publications"
 #  - name: "Blog"
 #    link: "/blog"
