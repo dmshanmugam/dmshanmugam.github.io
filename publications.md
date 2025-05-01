@@ -15,7 +15,7 @@ layout: default
 
 - [Learning disease progression models that capture health disparities](https://www.arxiv.org/abs/2412.16406) \\
 E. Chiang, <u>D. Shanmugam</u>, A. Beecy, G. Sayer, N. Uriel, D. Estrin, N. Garg, E. Pierson\\
- *CHIL 2025* \\
+ *CHIL 2025* 
 
 - [Test-time augmentation improves efficiency in conformal prediction](pdfs/CVPR_2025_TTA_CP.pdf) \\
 <u>D. Shanmugam</u>, H. Lu, S. Swaminarayan, J. Guttag \\
