@@ -9,17 +9,23 @@ layout: default
 (under review)
 
 2. Machine learning reveals hidden diagnoses among underserved patients \\
-(in preparation)
+<u>D. Shanmugam</u>\*, B. Hardy, A. Wang, S. Divakaran, J. Guttag, E. Pierson\*\*, M. Barnett\*\* \\
+(under review)
 
 ## Selected Publications
 
 - [Learning disease progression models that capture health disparities](https://www.arxiv.org/abs/2412.16406) \\
 E. Chiang, <u>D. Shanmugam</u>, A. Beecy, G. Sayer, N. Uriel, D. Estrin, N. Garg, E. Pierson\\
- *CHIL 2025* 
+*CHIL 2025*
+([code](https://github.com/erica-chiang/progression-disparities))
 
 - [Test-time augmentation improves efficiency in conformal prediction](pdfs/CVPR_2025_TTA_CP.pdf) \\
 <u>D. Shanmugam</u>, H. Lu, S. Swaminarayan, J. Guttag \\
 *CVPR 2025*
+
+- [Generative Artificial Intelligence in Medicine](https://arxiv.org/abs/2412.10337) \\
+<u>D. Shanmugam</u>, M. Agarwal, R. Movva, IY. Chen, M. Ghassemi, M. Jacobs, E. Pierson \\
+*Annual Review of Biomedical Data Science 2025*
 
 
 - [Use large language models to promote health equity](https://arxiv.org/abs/2312.14804) \\
@@ -64,38 +70,6 @@ A. Raghu, <u>D. Shanmugam</u>, E. Pomerantsev, J. Guttag, C. Stultz \\
 *Machine Learning in Healthcare Conference 2019*.  
 ([slides](pdfs/ecg_mlhc_slides.pdf)) **Oral Presentation**
 
-<!-- 
-## Workshop Papers
-
-- At the Intersection of Deep Learning and Conceptual Art: The End of Signature \\
-<u>D. Shanmugam</u>\*, K. Lewis\*, Jose Javier Gonzalez-Ortiz\*, Agnieszka Kurant, John Guttag \\
-*Broadening Research Collaborations Workshop, NeurIPS 2022* \\
-[[pdf](https://arxiv.org/abs/2207.04312)]
-
-- Improved Text Classification via Test-Time Augmentation \\
-H. Lu, <u>D. Shanmugam</u>, H. Suresh, J. Guttag \\
-*UpdatableML Workshop, ICML 2020* \\
-[[pdf](https://arxiv.org/abs/2206.13607)]
-
-- Unsupervised Domain Adaptation in the Absence of Source Data \\
-R. Sahoo\*, <u>D. Shanmugam</u>\*, J. Guttag \\
-*Uncertainty & Robustness in Deep Learning Workshop, ICML 2020* \\
-[[pdf](pdfs/udl_icml_2020.pdf)]
-
-- Automated Image Segmentation of Liver Stage Malaria Infection \\
-AP. Soleimany, H. Suresh, JJG. Ortiz, <u>D. Shanmugam</u>, N. Gural, J. Guttag, SN. Bhatia \\
-*Computational Biology Workshop ICML 2019* \\
-[[pdf](pdfs/icml_workshop_2019.pdf)]
-
-- A Convolutional Approach to Multivariate Time Series Comparison \\
-<u>D. Shanmugam</u>, D. Blalock, J. Guttag: Jiffy \\
-*Women in Machine Learning Workshop 2017* \\
-[[pdf](pdfs/jiffy.pdf)]
-
-- Disparities in the performance of Natural Language Processing Tools \\
-H. Suresh, <u>D. Shanmugam</u>\\
-*Women in Machine Learning Workshop 2017* \\
-[[poster](pdfs/wimlposter_2017.pdf)] -->
 
 ## Preprints 
 
@@ -105,9 +79,8 @@ _"Nothing stinks like a pile of unpublished writing"_ - Sylvia Plath, _The Bell 
 D. Shanmugam, S. Hill, J. Guttag
 
 
-- When and Why Test-Time Augmentation Works \\
+- [When and Why Test-Time Augmentation Works](pdfs/when_and_why.pdf) \\
 <u>D. Shanmugam</u>, D. Blalock, G. Balakrishnan, J. Guttag \\
-[[pdf](pdfs/when_and_why.pdf)] 
 
 <!-- 
 - Addressing Feature-Dependent Label Noise: A Generative Framework \\
