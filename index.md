@@ -2,7 +2,7 @@
 layout: default
 --- 
 
-**_<u>I am on the 2025/2026 academic job market!</u>_**
+**_<u>I am on the 2025/2026 academic/industry job markets!</u>_**
 
 Hello! I am a postdoc at Cornell, working with Emma Pierson and Jenna Wiens.  I completed my Ph.D. in the [Clinical and Applied Machine Learning](https://caml.csail.mit.edu/) group at MIT, where I was lucky to be advised by John Guttag. 
 
