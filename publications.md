@@ -85,4 +85,4 @@ D. Shanmugam, S. Hill, J. Guttag
 
 
 - [When and Why Test-Time Augmentation Works](pdfs/when_and_why.pdf) \\
-<u>D. Shanmugam</u>, D. Blalock, G. Balakrishnan, J. Guttag \\
+<u>D. Shanmugam</u>, D. Blalock, G. Balakrishnan, J. Guttag 
