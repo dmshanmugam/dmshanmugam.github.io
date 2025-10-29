@@ -23,10 +23,10 @@ footer_text: "***"
 nav:
  - name: "Publications"
    link: "/publications"
-#  - name: "Blog"
-#    link: "/blog"
  - name: "Misc"
    link: "/misc"
+ - name: "Writing"
+   link: "/blog"
  - name: "CV"
    link: "/assets/cv.pdf"
 
