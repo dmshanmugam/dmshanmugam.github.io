@@ -11,7 +11,7 @@ I love a good side project:
 - [A Message Story](https://github.com/divyashan/a_message_story): A tool to visualize your Messenger history with someone (also a good gift!)
 
 
-I also like to read books. Below is a selection I've enjoyed, organized by topic. For the most up-to-date look at what I'm reading, check [Goodreads](https://www.goodreads.com/user/show/76521824-divya-shanmugam)! Email me with any recs 🎉
+I also like to read books. Below is a selection I've enjoyed, organized by topic. Do email me with recommendations :) 
 
 ***Computing*** \\
 The Information: A History, A Theory, A Flood, James Gleick \\
