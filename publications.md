@@ -7,7 +7,7 @@ layout: default
 
 1. Machine learning reveals hidden diagnoses among underserved patients \\
 <u>D. Shanmugam</u>\*, B. Hardy, A. Wang, S. Divakaran, J. Guttag, E. Pierson\*\*, M. Barnett\*\* \\
-(under review)
+([pdf](/assets/2025_AF_hidden_diagnosis.pdf), [code](https://github.com/divyashan/hidden_diagnosis), under review)
 
 2. The Trillion Dollar Algorithm: Lessons from ML for Medicare Advantage Risk Adjustment \\
 <u>D. Shanmugam</u>\*, M. Johnson*, D. Meyers, J. Wiens, E. Pierson \\
