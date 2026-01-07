@@ -25,6 +25,8 @@ M. Krishnamoorthy, <u>D. Shanmugam</u>\*, D. Tjandra,  A. Peahl, C. Pancaro, E. 
 
 ## Selected Publications
 
+For a complete list, visit Google Scholar.
+
 - [Evaluating multiple models using labeled and unlabeled data](./pdfs/Neurips_2025_SSME_final.pdf) \\
 <u>D. Shanmugam</u>\*, S. Sadhuka\*, M. Raghavan, J. Guttag, B. Berger\*\*, E. Pierson\*\* \\
 *NeurIPS 2025* 
@@ -56,9 +58,9 @@ R. Movva\*, <u>D. Shanmugam</u>\*, K. Hou, P. Pathak, J. Guttag, N. Garg, E. Pie
 *MLHC 2023* ⭐️ Honorable Mention, Best Findings Paper at ML4H 2023 ⭐️ 
 ([code](https://github.com/rmovva/granular-race-disparities_mlhc23))
 
-- [A multi-site study of the relationship between photoperiod and ovulation rate using NaturalCycles data](https://www.nature.com/articles/s41598-023-34940-z) \\
+<!-- - [A multi-site study of the relationship between photoperiod and ovulation rate using NaturalCycles data](https://www.nature.com/articles/s41598-023-34940-z) \\
 <u>D. Shanmugam</u>, M. Espinosa, J. Gassen, A. van Lamsweerde, JT Pearson, E. Benhar, S. Hill \\
-*Nature Scientific Reports 2023*. 
+*Nature Scientific Reports 2023*.  -->
 
 - [Kaleidoscope: Semantically-grounded, context-specific ML model evaluation](https://doi.org/10.1145/3544548.3581482) \\
 H. Suresh, <u>D. Shanmugam</u>, T. Chen, A. Bryan, A. D'Amour, J. Guttag, A. Satyanarayan \\
@@ -68,10 +70,10 @@ H. Suresh, <u>D. Shanmugam</u>, T. Chen, A. Bryan, A. D'Amour, J. Guttag, A. Sat
 <u>D. Shanmugam</u>, S. Shabanian, F. Diaz, M. Finck, A. Biega \\
 *Fairness, Accountability and Transparency Conference 2022*. ([supp](pdfs/facct_2022_lldc_supp.pdf), [code](https://github.com/divyashan/learning_to_limit))
 
-- [Data Augmentation for Electrocardiograms](https://arxiv.org/abs/2204.04360)  \\
+<!-- - [Data Augmentation for Electrocardiograms](https://arxiv.org/abs/2204.04360)  \\
 A. Raghu, <u>D. Shanmugam</u>, E. Pomerantsev, J. Guttag, C. Stultz \\
 *Conference on Health, Inference, and Learning 2022*. 
-([code](https://github.com/aniruddhraghu/ecg_aug))
+([code](https://github.com/aniruddhraghu/ecg_aug)) -->
 
 - [Better Aggregation in Test-Time Augmentation](https://arxiv.org/abs/2011.11156) \\
 <u>D. Shanmugam</u>, D. Blalock, G. Balakrishnan, J. Guttag \\
