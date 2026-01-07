@@ -5,9 +5,18 @@ layout: default
 ## Working Papers
 
 
+
 1. Machine learning reveals hidden diagnoses among underserved patients \\
 <u>D. Shanmugam</u>\*, B. Hardy, A. Wang, S. Divakaran, J. Guttag, E. Pierson\*\*, M. Barnett\*\* \\
 ([pdf](/assets/2025_AF_hidden_diagnosis.pdf), [code](https://github.com/divyashan/hidden_diagnosis), under review)
+
+1. A Roadmap for Responsibly Removing Race from Clinical Algorithms \\
+<u>D. Shanmugam</u>\*, S. Balachandar, A. Chouldechova, J. Diao, K. Ferryman, A.  Manrai, S. Pfohl, N. Powe, I. D. Raji, E. Pierson   \\
+(under review)
+
+1. Improving Spontaneous Labor Prediction with Electronic Health Record Data  \\
+M. Krishnamoorthy, <u>D. Shanmugam</u>\*, D. Tjandra,  A. Peahl, C. Pancaro, E. Ziedan, A. Kowalski, J.Wiens \\
+(in preparation)
 
 2. The Trillion Dollar Algorithm: Lessons from ML for Medicare Advantage Risk Adjustment \\
 <u>D. Shanmugam</u>\*, M. Johnson*, D. Meyers, J. Wiens, E. Pierson \\

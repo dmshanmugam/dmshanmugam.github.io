@@ -7,7 +7,9 @@ baseurl:  ""
 author: "Divya Shanmugam"
 
 markdown: kramdown
-
+kramdown:
+  input: GFM
+  
 twitter_username: dmshanmugam
 
 header: assets/profile.png
