@@ -15,13 +15,13 @@ I also like to read books. Below is a selection I've enjoyed, organized by topic
 ***Computing*** \\
 The Information: A History, A Theory, A Flood, James Gleick \\
 The Soul of a New Machine, Tracy Kidder \\
-The Art of Science and Engineering, Richard Hamming  \\ 
+The Art of Science and Engineering, Richard Hamming   
 The Man from the Future, Ananyo Bhattacharya 
 
 ***Healthcare & Women's Health*** \\
 This Is Your Brain on Birth Control, Sarah Hill \\
 The Birth of the Pill, Jonathan Eig \\
-Invisible Women: Data Bias in a World Designed for Men, Caroline Criado-Perez \\
+Invisible Women, Caroline Criado-Perez \\
 We've Got You Covered, Amy Finkelstein and Liran Einav
 
 ***Language*** \\

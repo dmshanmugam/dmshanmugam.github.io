@@ -22,3 +22,43 @@
 	src: url("../assets/Merriweather/Merriweather-Regular.ttf");
 }
 
+/* Remove superscript behavior */
+sup {
+	vertical-align: baseline;
+	font-size: inherit;
+	line-height: inherit;
+  }
+  
+/* Style footnote references as [1] */
+a.footnote::before {
+content: "[";
+}
+
+a.footnote::after {
+content: "]";
+}
+
+a.footnote {
+font-size: 0.95em;
+text-decoration: none;
+}
+
+/* Tighten footnote block spacing */
+.footnotes {
+	font-size: 0.95em;          /* optional */
+	line-height: inherit;        /* keep consistent with body */
+	margin-top: 1rem;            /* optional */
+  }
+  
+  .footnotes ol {
+	margin: 0.25rem 0 0 1.25rem; /* reduce top/bottom + indent */
+	padding: 0;
+  }
+  
+  .footnotes li {
+	margin: 0.25rem 0;           /* reduce space between footnotes */
+  }
+  
+  .footnotes p {
+	margin: 0;                   /* remove extra paragraph spacing inside each footnote */
+  }
