@@ -21,6 +21,9 @@ To create stereographic left and right pairs of parallel images, a machine learn
 
 An unequivocally great use of AI, I think. If you want details on the exact pipeline – I used a combination of Immersity's Immersive Conversion, Keynote, and a Jupyter notebook to cut the images down to the right size –  I’m happy to share. A success!
 
+Happy gift-giving,
+
+Divya
 
 [^1]: It was Franconia Ridge, a hike I will never do again
 [^2]: I did find a guide to making the reels from scratch, but it’s beyond the scope of my time and abilities. 
