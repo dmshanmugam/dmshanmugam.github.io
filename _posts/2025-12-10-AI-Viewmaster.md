@@ -3,7 +3,7 @@ layout: post
 title: How to create AI-Generated ViewMaster Reels 
 ---
 
-I grew up loving View-Masters. They are the perfect toy: simple mechanics, great results. You press a lever, see a 3D photo, and so on, up to seven times. Sometimes the photos form a story. I recently picked up a ViewMaster from a nearby antique shop, along with two discs (one of a memorable hike[^1], and one a surreal depiction of the Three Little Pigs). I wanted to make my own discs immediately.
+I grew up loving View-Masters. They are the perfect toy: simple mechanics, great results. You press a lever, see a 3D photo, and so on, up to seven times. Sometimes the photos form a story. I recently picked up a ViewMaster from a nearby antique shop, along with two discs (one of a memorable hike [^1], and one a surreal depiction of the Three Little Pigs). I wanted to make my own discs immediately.
 
 
 <img src="/assets/images/viewmaster_icon.png" alt="ViewMaster example" width="10">
