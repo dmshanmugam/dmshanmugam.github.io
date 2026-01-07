@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to create AI-Generated View-Master Reels 
+title: How to create AI-Generated ViewMaster Reels 
 ---
 
 I grew up loving View-Masters. They are the perfect toy: simple mechanics, great results. You press a lever, see a 3D photo, and so on, up to seven times. Sometimes the photos form a story. I recently picked up a ViewMaster from a nearby antique shop, along with two discs (one of a memorable hike[^1], and one a surreal depiction of the Three Little Pigs). I wanted to make my own discs immediately.
@@ -19,9 +19,7 @@ To create stereographic left and right pairs of parallel images, a machine learn
 <img src="/assets/images/viewmaster_pipeline.png" alt="ViewMaster example" width="10">
 
 
-An unequivocally great use of AI, I think. I showed these discs to friends recently and received reviews like “wow” and “that must have taken a lot of time”. If you want details on the exact pipeline – I used a combination of Immersity's Immersive Conversion, Keynote, and a Jupyter notebook to process the images –  I’m happy to share. A success!
-
-
+An unequivocally great use of AI, I think. If you want details on the exact pipeline – I used a combination of Immersity's Immersive Conversion, Keynote, and a Jupyter notebook to cut the images down to the right size –  I’m happy to share. A success!
 
 
 [^1]: It was Franconia Ridge, a hike I will never do again

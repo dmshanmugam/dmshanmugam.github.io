@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creating close-captioned content
+title: How to create close-captioned content
 ---
 
 This is a guide to generating a closed caption video, in which the captions are *embedded* into the video (i.e., they cannot be turned off). I learned almost all of these steps the hard way.
