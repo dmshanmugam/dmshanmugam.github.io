@@ -15,7 +15,7 @@ layout: default
 (under review)
 
 1. Improving Spontaneous Labor Prediction with Electronic Health Record Data  \\
-M. Krishnamoorthy, <u>D. Shanmugam</u>\*, D. Tjandra,  A. Peahl, C. Pancaro, E. Ziedan, A. Kowalski, J.Wiens \\
+M. Krishnamoorthy*, <u>D. Shanmugam</u>\*, D. Tjandra,  A. Peahl, C. Pancaro, E. Ziedan, A. Kowalski, J.Wiens \\
 (in preparation)
 
 2. The Trillion Dollar Algorithm: Lessons from ML for Medicare Advantage Risk Adjustment \\

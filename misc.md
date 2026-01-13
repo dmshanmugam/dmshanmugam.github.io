@@ -4,7 +4,7 @@ layout: default
 
 I love a good side project:
 
-- [End of Signature](https://listart.mit.edu/art-artists/end-signature-2021-2022): I helped create a pair of AI-generated art sculptures in Kendall Square.
+- [End of Signature](https://listart.mit.edu/art-artists/end-signature-2021-2022): I helped create a pair of AI-generated sculptures in Kendall Square.
 <!-- - [WhatGisMyBC](https://whatgismybc.pythonanywhere.com): A website to map commercial birth control pill names to common side effects. -->
 - [Making Mentorship Better](https://makingmentorshipbetter.github.io): I wrote a guide to mentoring undergraduates in computer science.
 - [PersonalizedMinis](https://github.com/divyashan/personalized_mini): I created a tool to generate personalized mini crosswords.
@@ -19,7 +19,6 @@ The Art of Science and Engineering, Richard Hamming
 The Man from the Future, Ananyo Bhattacharya 
 
 ***Healthcare & Women's Health*** \\
-This Is Your Brain on Birth Control, Sarah Hill \\
 The Birth of the Pill, Jonathan Eig \\
 Invisible Women, Caroline Criado-Perez \\
 We've Got You Covered, Amy Finkelstein and Liran Einav
