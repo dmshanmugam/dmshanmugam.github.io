@@ -4,10 +4,10 @@ layout: default
 
 I love a good side project:
 
-- [End of Signature](https://listart.mit.edu/art-artists/end-signature-2021-2022): A pair of AI-generated art sculptures in Kendall Square.
+- [End of Signature](https://listart.mit.edu/art-artists/end-signature-2021-2022): I helped create a pair of AI-generated art sculptures in Kendall Square.
 <!-- - [WhatGisMyBC](https://whatgismybc.pythonanywhere.com): A website to map commercial birth control pill names to common side effects. -->
-- [Making Mentorship Better](https://makingmentorshipbetter.github.io): A guide to mentoring undergraduate researchers in computer science.
-- [PersonalizedMinis](https://github.com/divyashan/personalized_mini): A tool to generate personalized mini crosswards (a great gift!)
+- [Making Mentorship Better](https://makingmentorshipbetter.github.io): I wrote a guide to mentoring undergraduates in computer science.
+- [PersonalizedMinis](https://github.com/divyashan/personalized_mini): I created a tool to generate personalized mini crosswords.
 <!-- - [A Message Story](https://github.com/divyashan/a_message_story): A tool to visualize your Messenger history with someone (also a good gift!) -->
 
 I also like to read books. Below is a selection I've enjoyed, organized by topic. Do email me with recommendations :) 

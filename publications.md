@@ -25,7 +25,7 @@ M. Krishnamoorthy, <u>D. Shanmugam</u>\*, D. Tjandra,  A. Peahl, C. Pancaro, E. 
 
 ## Selected Publications
 
-For a complete list, visit Google Scholar.
+See [Google Scholar](https://scholar.google.com/citations?user=E7bRAPkAAAAJ&hl=en) for a complete list.
 
 - [Evaluating multiple models using labeled and unlabeled data](./pdfs/Neurips_2025_SSME_final.pdf) \\
 <u>D. Shanmugam</u>\*, S. Sadhuka\*, M. Raghavan, J. Guttag, B. Berger\*\*, E. Pierson\*\* \\

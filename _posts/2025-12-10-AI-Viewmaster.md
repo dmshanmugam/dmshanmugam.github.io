@@ -31,7 +31,7 @@ Divya
 [^2]: I did find [a guide](https://www.instructables.com/DIY-Viewmaster-Reels/) to making the reels from scratch, but it’s beyond the scope of my time and abilities. 
 [^3]: Do animals with more eyes have better depth estimation? Depends on how far their eyes are from each other!
 [^4]: Tools to convert stereograms to anaglyphs exist (this is a deterministic transform)
-[^5]: https://medium.com/@patriciogv/the-state-of-the-art-of-depth-estimation-from-single-images-9e245d51a315
+[^5]: [A survey of depth estimation methods](https://medium.com/@patriciogv/the-state-of-the-art-of-depth-estimation-from-single-images-9e245d51a315)
 
 
 
