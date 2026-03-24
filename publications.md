@@ -23,7 +23,7 @@ M. Krishnamoorthy*, <u>D. Shanmugam</u>\*, D. Tjandra,  A. Peahl, C. Pancaro, E.
 See [Google Scholar](https://scholar.google.com/citations?user=E7bRAPkAAAAJ&hl=en) for a complete list.
 
 - A Roadmap for Responsibly Removing Race from Clinical Algorithms \\
-<u>D. Shanmugam</u>\*, S. Balachandar, A. Chouldechova, J. Diao, K. Ferryman, A.  Manrai, S. Pfohl, N. Powe, I. D. Raji, E. Pierson   \\
+<u>D. Shanmugam</u>\*, S. Balachandar*, A. Chouldechova, J. Diao, K. Ferryman, A.  Manrai, S. Pfohl, N. Powe, I. D. Raji, E. Pierson   \\
 *Nature Health 2026* 
 
 
