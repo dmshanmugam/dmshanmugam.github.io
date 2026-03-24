@@ -8,15 +8,13 @@ layout: default
 <u>D. Shanmugam</u>\*, B. Hardy, A. Wang, S. Divakaran, J. Guttag, E. Pierson\*\*, M. Barnett\*\* \\
 ([pdf](/assets/2025_AF_hidden_diagnosis.pdf), [code](https://github.com/divyashan/hidden_diagnosis), under review)
 
-
 2. Improving Spontaneous Labor Prediction with Electronic Health Record Data  \\
 M. Krishnamoorthy*, <u>D. Shanmugam</u>\*, D. Tjandra,  A. Peahl, C. Pancaro, E. Ziedan, A. Kowalski, J.Wiens \\
 (Under review)
 
-2. The Trillion Dollar Algorithm: Lessons from ML for Medicare Advantage Risk Adjustment \\
+3. The Trillion Dollar Algorithm: Lessons from ML for Medicare Advantage Risk Adjustment \\
 <u>D. Shanmugam</u>\*, M. Johnson*, D. Meyers, J. Wiens, E. Pierson \\
 (under review)
-
 
 ## Selected Publications
 
