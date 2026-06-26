@@ -2,7 +2,7 @@
 layout: default
 --- 
 
-**_<u>I am on the 2025/2026 job market!</u>_**
+**_<u>I am incoming NLM fellow at Columbia's Department of Biomedical Informatics!**
 
 I am a postdoc at Cornell, working with Emma Pierson and Jenna Wiens.  I completed my Ph.D. in the [Clinical and Applied Machine Learning](https://caml.csail.mit.edu/) group at MIT, where I was lucky to be advised by John Guttag. 
 
@@ -25,4 +25,4 @@ Many downstream applications begin with pretrained models. How can we adapt and 
 <div style="background-color: #FFEDE0; padding: 0.75em; border-radius: 5px; border: #FFB085; margin-bottom: 0.5em; margin-top: 0em;">
  <span style="color: #B84A13;"> <b> Bridging ML and high-stakes problems in healthcare </b> </span>  <br>
 
-I connect core ML ideas to real-world challenges in women’s health, federal health insurance, and health inequality. These settings motivate new methods; for example, a new method for prevalence estimation for intimate partner violence screening (NWH 2024).
+I connect core ML ideas to real-world challenges in women’s health, federal health insurance, and health inequality. These settings, in turn, motivate new methods; for example, a new method for prevalence estimation for intimate partner violence screening (NWH 2024).
