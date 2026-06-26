@@ -5,8 +5,8 @@ layout: default
 ## Working Papers
 
 
-1. Auditing Human Labels with Concept-based Decompositions
-<u>D. Shanmugam</u>\, M. Wang, A. Field, E. Pierson \\
+1. Auditing Human Labels with Concept-based Decompositions \\
+<u>D. Shanmugam</u>, M. Wang, A. Field, E. Pierson \\
 *Under review*
 
 2. Machine learning reveals hidden diagnoses among underserved patients \\
@@ -18,15 +18,15 @@ layout: default
 
 See [Google Scholar](https://scholar.google.com/citations?user=E7bRAPkAAAAJ&hl=en) for a complete list.
 - Improving Spontaneous Labor Prediction with Electronic Health Record Data  \\
-M. Krishnamoorthy*, <u>D. Shanmugam</u>\*, D. Tjandra,  A. Peahl, C. Pancaro, E. Ziedan, A. Kowalski, J.Wiens \\
+M. Krishnamoorthy\*, <u>D. Shanmugam</u>\*, D. Tjandra, A. Peahl, C. Pancaro, E. Ziedan, A. Kowalski, J. Wiens \\
 *Under revision at Nature Health Communications 2026*
 
 - The Trillion Dollar Algorithm: Lessons from ML for Medicare Advantage Risk Adjustment \\
-<u>D. Shanmugam</u>\*, M. Johnson*, D. Meyers, J. Wiens, E. Pierson \\
+<u>D. Shanmugam</u>\*, M. Johnson\*, D. Meyers, J. Wiens, E. Pierson \\
 *Under revision at Health Affairs Forefront 2026*
 
 - A Roadmap for Responsibly Removing Race from Clinical Algorithms \\
-<u>D. Shanmugam</u>\*, S. Balachandar*, A. Chouldechova, J. Diao, K. Ferryman, A.  Manrai, S. Pfohl, N. Powe, I. D. Raji, E. Pierson   \\
+<u>D. Shanmugam</u>\*, S. Balachandar\*, A. Chouldechova, J. Diao, K. Ferryman, A. Manrai, S. Pfohl, N. Powe, I. D. Raji, E. Pierson \\
 *Nature Health 2026* 
 
 - [Evaluating multiple models using labeled and unlabeled data](./pdfs/Neurips_2025_SSME_final.pdf) \\
@@ -43,7 +43,7 @@ E. Chiang, <u>D. Shanmugam</u>, A. Beecy, G. Sayer, N. Uriel, D. Estrin, N. Garg
 *CVPR 2025*
 
 - [Generative Artificial Intelligence in Medicine](https://arxiv.org/abs/2412.10337) \\
-<u>D. Shanmugam</u>, M. Agarwal, R. Movva, IY. Chen, M. Ghassemi, M. Jacobs, E. Pierson \\
+<u>D. Shanmugam</u>, M. Agarwal, R. Movva, I. Y. Chen, M. Ghassemi, M. Jacobs, E. Pierson \\
 *Annual Review of Biomedical Data Science 2025*
 
 - [Use large language models to promote health equity](https://arxiv.org/abs/2312.14804) \\

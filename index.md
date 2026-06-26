@@ -2,27 +2,8 @@
 layout: default
 --- 
 
-**_<u>I am incoming NLM fellow at Columbia's Department of Biomedical Informatics!**
+**_<u>I am an incoming National Library of Medicine fellow at Columbia's Department of Biomedical Informatics!</u>_**
 
-I am a postdoc at Cornell, working with Emma Pierson and Jenna Wiens.  I completed my Ph.D. in the [Clinical and Applied Machine Learning](https://caml.csail.mit.edu/) group at MIT, where I was lucky to be advised by John Guttag. 
+I develop machine learning methods for health, guided by a broad question: how can we embed AI systems effectively within human systems? In healthcare, this means reasoning about how people and institutions shape the development and deployment of AI: how patients seek care, how clinicians make decisions, how incentives affect what gets recorded, and how humans respond to algorithmic predictions. My recent work develops methods to audit the data used to train AI systems (NWH 2024; JAMA HF 2026); to evaluate systems when labels are limited or unreliable (CHI 2023; NeurIPS 2025); and to improve the reliability of pretrained models at test time (ICCV 2021; CVPR 2025). I am always excited to work with students and collaborators on problems where real clinical or policy settings reveal new technical questions. 
 
-I design methods to make machine learning systems robust to the imperfections of real-world data and models, with much of my work motivated by challenges in healthcare. Specific areas I work on:
-
-<div style="background-color: #FFEDE0; padding: 0.75em; border-radius: 5px; border: #FFB085; margin-bottom: 0.5em; margin-top: 0em;">
-
-<span style="color: #B84A13;"> <b> Learning from imperfect data </b> </span> <br>
-I develop machine learning techniques to model the human and systemic factors that shape datasets, including underreporting (NWH 2024), differential healthcare access (CHIL 2025), and financial incentives. These behavioral models identify subtle ways disparities propagate through ML systems and provide methods to mitigate these effects during model training.
-</div>
-
-<div style="background-color: #FFEDE0; padding: 0.75em; border-radius: 5px; border: #FFB085; margin-bottom: 0.5em; margin-top: 0em;">
-
- <span style="color: #B84A13;"> <b> Learning with imperfect models </b> </span>  <br>
-
-Many downstream applications begin with pretrained models. How can we adapt and evaluate them responsibly? My work introduces test-time interventions, such as test-time augmentation (ICCV 2021, CVPR 2025), and new evaluation methods that move beyond curated benchmarks (CHI 2023, NeurIPS 2025).
-
-</div>
-
-<div style="background-color: #FFEDE0; padding: 0.75em; border-radius: 5px; border: #FFB085; margin-bottom: 0.5em; margin-top: 0em;">
- <span style="color: #B84A13;"> <b> Bridging ML and high-stakes problems in healthcare </b> </span>  <br>
-
-I connect core ML ideas to real-world challenges in women’s health, federal health insurance, and health inequality. These settings, in turn, motivate new methods; for example, a new method for prevalence estimation for intimate partner violence screening (NWH 2024).
+I am currently a postdoc at Cornell Tech, working with Emma Pierson and Jenna Wiens. I completed my Ph.D. at MIT, where I was lucky to be advised by John Guttag.
