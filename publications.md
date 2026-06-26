@@ -6,7 +6,7 @@ layout: default
 
 
 1. Auditing Human Labels with Concept-based Decompositions \\
-<u>D. Shanmugam</u>, M. Wang, A. Field, E. Pierson \\
+<u>D. Shanmugam</u>, M. Zhong, A. Field, E. Pierson \\
 *Under review*
 
 2. Machine learning reveals hidden diagnoses among underserved patients \\
