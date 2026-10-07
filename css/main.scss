@@ -112,7 +112,9 @@ text-decoration: none;
     }
 
     a[aria-current="page"] {
-        border-bottom-color: $accent;
+        text-decoration: underline;
+        text-decoration-thickness: 2px;
+        text-underline-offset: 6px;
     }
 }
 
@@ -148,8 +150,7 @@ text-decoration: none;
 
 /* A modest size increase across the site. */
 .content.biography > p {
-    text-align: justify;
-    hyphens: auto;
+    text-align: left;
 }
 
 body {
