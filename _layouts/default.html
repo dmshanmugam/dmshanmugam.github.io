@@ -128,6 +128,11 @@
                 {{ content }}
                
             </div>
+            {% unless page.url == '/' or page.url == '/index.html' %}
+            <footer class="contact-footer">
+                You can reach me at <a href="mailto:dms2351@cumc.columbia.edu">dms2351@cumc.columbia.edu</a>.
+            </footer>
+            {% endunless %}
         </div>
     </div>
     {% if site.tracking_id %}
@@ -141,5 +146,3 @@
         </script>
     {% endif %}
 </body>
-<footer>
-</footer>
