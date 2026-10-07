@@ -2,6 +2,28 @@
 ---
 @import "style";
 
+/* Replace page snapshots without fading through the browser canvas. */
+@view-transition {
+    navigation: auto;
+}
+
+::view-transition-group(root),
+::view-transition-old(root),
+::view-transition-new(root) {
+    animation: none;
+    mix-blend-mode: normal;
+}
+
+::view-transition {
+    background: #FFF9F4;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    @view-transition {
+        navigation: none;
+    }
+}
+
 @font-face {
 	font-family: "titillium-regular";
 	src:url("../assets/Titillium_Web/TitilliumWeb-Regular.ttf");
@@ -62,3 +84,97 @@ text-decoration: none;
   .footnotes p {
 	margin: 0;                   /* remove extra paragraph spacing inside each footnote */
   }
+/* Header hierarchy and navigation spacing. */
+#author-email {
+    font-size: 17px;
+    padding-bottom: 18px;
+
+    a {
+        color: #59514b;
+    }
+}
+
+#navlist {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 22px;
+    margin: 0;
+
+    li.nav-list {
+        margin: 0;
+        float: none;
+    }
+
+    a {
+        display: inline-block;
+        padding: 4px 0;
+        border-bottom: 2px solid transparent;
+    }
+
+    a[aria-current="page"] {
+        border-bottom-color: $accent;
+    }
+}
+
+@media (max-width: 800px) {
+    #navlist {
+        justify-content: center;
+    }
+}
+
+/* Publication hierarchy, scoped to the publications page. */
+.content.publications {
+    > ul > li,
+    > ol > li {
+        margin: 0 0 24px;
+        line-height: 1.5;
+    }
+
+    > ul > li > p,
+    > ol > li > p {
+        margin: 0;
+    }
+
+    strong {
+        font-family: "titillium-bold";
+        font-weight: normal;
+    }
+
+    .publication-authors {
+        color: #625b55;
+        font-size: 0.94em;
+    }
+}
+
+/* A modest size increase across the site. */
+.content.biography > p {
+    text-align: justify;
+    hyphens: auto;
+}
+
+body {
+    font-size: 19px;
+    line-height: 1.55;
+}
+
+#author-name {
+    font-size: 44px;
+}
+
+#author-email {
+    font-size: 19px;
+}
+
+#navlist {
+    font-size: 19px;
+}
+
+@media (max-width: 800px) {
+    #author-name {
+        font-size: 34px;
+    }
+
+    #navlist {
+        font-size: 18px;
+    }
+}

@@ -29,6 +29,9 @@
 
 
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS" href="/feed.xml" />
+    <style>html, body { background: #FFF9F4; }</style>
+    <link rel="preload" href="/assets/Titillium_Web/TitilliumWeb-Regular.ttf" as="font" type="font/ttf" crossorigin>
+    <link rel="preload" href="/assets/Merriweather/Merriweather-Regular.ttf" as="font" type="font/ttf" crossorigin>
     <link rel="stylesheet" href="/css/main.css">
     {% if site.favicon %}
         <!-- <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon.ico"> -->
@@ -82,9 +85,8 @@
                     <a id="author-name" class="alignable pull-left stack-on-small" href="{{ site.baseurl }}/"> 
                         
                     <!-- <div id="author-first-name" class="stack-on-small">{{ site.firstname }}&#8201</div><div id="author-last-name">{{site.lastname}}</div></a> -->
-                    <b>{{site.firstname}}&#8201</b>{{site.lastname}}</a>
-                    <div id="author-role" class="alignable stack-on-small" href="{{ site.baseurl }}">Ph.D., MIT</div>
-                    <div id="author-email" class="alignabl pull-left">divyas @ cornell.edu</div>
+                    {{site.firstname}}&#8201;{{site.lastname}}</a>
+                    <div id="author-email" class="alignabl pull-left"><a href="mailto:dms2351@cumc.columbia.edu">dms2351@cumc.columbia.edu</a></div>
                     <br id="author-email-br">
 
                     <ul id="navlist" class="alignable pull-left navbar-ul stack-on-small">
@@ -95,18 +97,20 @@
                             {% elsif x.link contains 'mailto' %}
                                 {% assign domain = '' %}
                             {% else %}
-                                {% assign domain = site.url | append: site.baseurl %}
+                                {% assign domain = site.baseurl %}
                             {% endif %}
 
+                            {% assign nav_page_url = x.link | append: '.html' %}
+                            {% assign nav_current = false %}
+                            {% if page.url == x.link or page.url == nav_page_url %}
+                                {% assign nav_current = true %}
+                            {% endif %}
                             {% if x.name == "Resume" %}
                                 <li class="alignable pull-left nav-list"><a target="_blank" href="{{ domain }}{{ x.link }}">{{ x.name }}</a>
                             {%elsif x.name == "CV" %}
                                 <li class="alignable pull-left nav-list"><a href="{{ domain }}{{ x.link }}">{{ x.name }}</a>
                             {% else %}
-                                <li class="alignable pull-left nav-list"><a href="{{ domain }}{{ x.link }}.html">{{ x.name }}</a>
-                            {% endif %}
-                            {% if forloop.last == false %}
-                                /
+                                <li class="alignable pull-left nav-list"><a href="{{ domain }}{{ x.link }}.html"{% if nav_current %} aria-current="page"{% endif %}>{{ x.name }}</a>
                             {% endif %}
                                 </li>
                         {% endfor %}
@@ -120,7 +124,7 @@
         {% if page.is_contact == true %}
             <div class="container content contact">
         {% else %}
-            <div class="container content">
+            <div class="container content {{ page.content_class }}">
         {% endif %}
                 {{ content }}
                
