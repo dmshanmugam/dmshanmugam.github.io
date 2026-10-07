@@ -105,6 +105,12 @@ text-decoration: none;
         float: none;
     }
 
+    li.nav-list:not(:last-child)::after {
+        content: "/";
+        margin-left: 22px;
+        color: #625b55;
+    }
+
     a {
         display: inline-block;
         padding: 4px 0;
