@@ -80,9 +80,11 @@
 <body>
     <div class="wrapper">
         <div class="container page-frame">
+            {% if page.url == '/' or page.url == '/index.html' %}
             <div id="navbar-photo" class="navbar-photo">
                 <img id="author-picture" src="{{ site.baseurl }}/assets/profile.png" alt="Divya Shanmugam">
             </div>
+            {% endif %}
         
         <div class="navbar container">
             
