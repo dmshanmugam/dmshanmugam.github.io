@@ -30,8 +30,9 @@
 
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS" href="/feed.xml" />
     <style>html, body { background: #FFF9F4; }</style>
-    <link rel="preload" href="/assets/Titillium_Web/TitilliumWeb-Regular.ttf" as="font" type="font/ttf" crossorigin>
-    <link rel="preload" href="/assets/Merriweather/Merriweather-Regular.ttf" as="font" type="font/ttf" crossorigin>
+    <link rel="preload" href="/assets/Lora/Lora-Variable.ttf" as="font" type="font/ttf" crossorigin>
+    <link rel="preload" href="/assets/Lora/Lora-Italic-Variable.ttf" as="font" type="font/ttf" crossorigin>
+    <link rel="preload" href="/assets/SourceSans3/SourceSans3-Variable.ttf" as="font" type="font/ttf" crossorigin>
     <link rel="stylesheet" href="/css/main.css">
     {% if site.favicon %}
         <!-- <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon.ico"> -->
@@ -78,6 +79,10 @@
 
 <body>
     <div class="wrapper">
+        <div class="container page-frame">
+            <div id="navbar-photo" class="navbar-photo">
+                <img id="author-picture" src="{{ site.baseurl }}/assets/profile.png" alt="Divya Shanmugam">
+            </div>
         
         <div class="navbar container">
             
@@ -85,9 +90,7 @@
                     <a id="author-name" class="alignable pull-left stack-on-small" href="{{ site.baseurl }}/"> 
                         
                     <!-- <div id="author-first-name" class="stack-on-small">{{ site.firstname }}&#8201</div><div id="author-last-name">{{site.lastname}}</div></a> -->
-                    {{site.firstname}}&#8201;{{site.lastname}}</a>
-                    <div id="author-email" class="alignabl pull-left"><a href="mailto:dms2351@cumc.columbia.edu">dms2351@cumc.columbia.edu</a></div>
-                    <br id="author-email-br">
+                    <b>{{site.firstname}}</b>&#8201;<span class="author-last-name">{{site.lastname}}</span></a>
 
                     <ul id="navlist" class="alignable pull-left navbar-ul stack-on-small">
                         {% for x in site.nav %}
@@ -116,11 +119,7 @@
                         {% endfor %}
                     </ul>
             </div>
-            <div id="navbar-photo" class="container navbar-photo stack-on-small" style="padding-right: 0px;">
-                <img id="author-picture" class="pull-left stack-on-small" src="/assets/profile.png">
-            </div>
         </div>
-        <div style="clear:both"></div>
         {% if page.is_contact == true %}
             <div class="container content contact">
         {% else %}
@@ -129,6 +128,7 @@
                 {{ content }}
                
             </div>
+        </div>
     </div>
     {% if site.tracking_id %}
         <script>

@@ -1,13 +1,14 @@
 ---
 layout: default
+content_class: writing
 ---
 
-<table>
+<ul class="writing-list">
   {% for post in site.posts %}
-    <tr>
-      <td><h3><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h3></td>
-      <td class="date">{{ post.date | date: '%B %d, %Y' }}</td>
-    </tr>
+    <li>
+      <a class="writing-title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%B %-d, %Y' }}</time>
+    </li>
 
   {% endfor %}
-</table>
+</ul>

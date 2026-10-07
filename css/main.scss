@@ -25,23 +25,45 @@
 }
 
 @font-face {
-	font-family: "titillium-regular";
-	src:url("../assets/Titillium_Web/TitilliumWeb-Regular.ttf");
+    font-family: "Lora";
+    src: url("../assets/Lora/Lora-Variable.ttf") format("truetype");
+    font-weight: 400 700;
+    font-display: swap;
 }
 
 @font-face {
-	font-family: "titillium-bold";
-	src:url("../assets/Titillium_Web/TitilliumWeb-Bold.ttf");
+    font-family: "Source Sans 3";
+    src: url("../assets/SourceSans3/SourceSans3-Variable.ttf") format("truetype");
+    font-weight: 200 900;
+    font-display: swap;
 }
 
 @font-face {
-	font-family: "merriweather-bold";
-	src: url("../assets/Merriweather/Merriweather-Bold.ttf");
+    font-family: "Lora";
+    src: url("../assets/Lora/Lora-Italic-Variable.ttf") format("truetype");
+    font-weight: 400 700;
+    font-style: italic;
+    font-display: swap;
 }
 
-@font-face {
-	font-family: "merriweather-regular";
-	src: url("../assets/Merriweather/Merriweather-Regular.ttf");
+#author-name {
+    font-family: "Lora", serif;
+}
+
+#author-name:hover,
+#author-name:focus-visible {
+    text-decoration: none;
+    font-style: italic;
+}
+
+body,
+.navbar-text,
+#author-first-name,
+#author-last-name,
+#author-role,
+#author-email,
+#navlist {
+    font-family: "Source Sans 3", sans-serif;
 }
 
 /* Remove superscript behavior */
@@ -89,15 +111,18 @@ text-decoration: none;
     font-size: 17px;
     padding-bottom: 18px;
 
-    a {
-        color: #59514b;
+    a,
+    a:visited,
+    a:hover,
+    a:focus {
+        color: #000;
     }
 }
 
 #navlist {
     display: flex;
     flex-wrap: wrap;
-    gap: 8px 22px;
+    gap: 8px 10px;
     margin: 0;
 
     li.nav-list {
@@ -107,8 +132,8 @@ text-decoration: none;
 
     li.nav-list:not(:last-child)::after {
         content: "/";
-        margin-left: 22px;
-        color: #625b55;
+        margin-left: 10px;
+        color: #a69b92;
     }
 
     a {
@@ -117,9 +142,11 @@ text-decoration: none;
         border-bottom: 2px solid transparent;
     }
 
+    a:hover,
+    a:focus-visible,
     a[aria-current="page"] {
         text-decoration: underline;
-        text-decoration-thickness: 2px;
+        text-decoration-thickness: 1px;
         text-underline-offset: 6px;
     }
 }
@@ -132,10 +159,20 @@ text-decoration: none;
 
 /* Publication hierarchy, scoped to the publications page. */
 .content.publications {
+    h2 {
+        font-size: 1.25em;
+        line-height: 1.3;
+        margin: 28px 0 12px;
+    }
+
+    > h2:first-child {
+        margin-top: 0;
+    }
+
     > ul > li,
     > ol > li {
-        margin: 0 0 24px;
-        line-height: 1.5;
+        margin: 0 0 16px;
+        line-height: 1.35;
     }
 
     > ul > li > p,
@@ -144,8 +181,8 @@ text-decoration: none;
     }
 
     strong {
-        font-family: "titillium-bold";
-        font-weight: normal;
+        font-family: "Source Sans 3", sans-serif;
+        font-weight: 700;
     }
 
     .publication-authors {
@@ -154,14 +191,58 @@ text-decoration: none;
     }
 }
 
+.content.writing .writing-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    > li {
+        margin: 0 0 20px;
+    }
+
+    .writing-title {
+        display: block;
+        font-weight: 600;
+        line-height: 1.35;
+    }
+
+    time {
+        display: block;
+        margin-top: 3px;
+        font-size: 0.85em;
+        color: #756c64;
+    }
+}
+
 /* A modest size increase across the site. */
 .content.biography > p {
     text-align: left;
 }
 
+.research-emphasis {
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
+    text-decoration-color: rgba(51, 51, 51, 0.35);
+}
+
+.content.biography a[href^="mailto:"] {
+    color: $accent;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
+    text-decoration-color: rgba($accent, 0.45);
+}
+
+.content.biography a[href^="mailto:"]:hover,
+.content.biography a[href^="mailto:"]:focus-visible {
+    text-decoration-color: $accent;
+}
+
 body {
     font-size: 19px;
     line-height: 1.55;
+    color: #333;
 }
 
 #author-name {
@@ -183,5 +264,97 @@ body {
 
     #navlist {
         font-size: 18px;
+    }
+}
+
+/* Let content wrap naturally beside the portrait on wider screens. */
+.page-frame {
+    display: flow-root;
+    width: calc(100% - 40px);
+    max-width: 800px;
+    padding-top: 48px;
+}
+
+.page-frame > .navbar,
+.page-frame > .content {
+    width: auto;
+    max-width: none;
+    margin: 0;
+}
+
+.navbar {
+    display: block;
+    padding: 0 0 30px;
+    text-align: left;
+}
+
+#navbar-text {
+    display: block;
+    width: auto;
+    max-width: none;
+    margin: 0;
+    padding: 0;
+    float: none;
+}
+
+#navbar-photo {
+    display: block;
+    float: right;
+    width: 220px;
+    max-width: none;
+    margin: 0 0 24px 28px;
+    padding: 0;
+}
+
+#author-name {
+    display: block;
+    color: #000;
+    float: none;
+    width: auto;
+    padding: 0;
+    line-height: 1.2;
+    text-align: left;
+}
+
+#navlist {
+    float: none;
+    width: auto;
+    padding: 10px 0 0;
+    justify-content: flex-start;
+    text-align: left;
+}
+
+#author-picture {
+    display: block;
+    float: none;
+    width: 100%;
+    height: auto;
+    padding: 0;
+    border-radius: 6px;
+}
+
+.content > :first-child {
+    margin-top: 0;
+}
+
+@media (max-width: 600px) {
+    .page-frame {
+        padding-top: 36px;
+    }
+
+    #navbar-photo {
+        float: none;
+        width: 140px;
+        margin: 0 auto 16px;
+    }
+
+    #author-name {
+        font-size: 32px;
+        text-align: center;
+    }
+
+    #navlist {
+        justify-content: center;
+        text-align: center;
     }
 }
